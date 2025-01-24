@@ -7,8 +7,8 @@ Crystal Sanchez
 Textile Design and Fabrication Intern  
 
 ## Supervisors:
+- Dr. Nazanin Munroe (Director, City Tech Textile Lab)
 - Dr. David B. Smith (Artistic Director, Center for Holistic Integration)  
-- Dr. Nazanin Munroe (Director, City Tech Textile Lab)  
 
 ## Internship Period:
 Spring 2025  
