@@ -24,8 +24,6 @@ Prototyping for “Dark Room” Performance and Related Merchandise
 ## Project Overview:
 Crystal Sanchez will assist with the development of set designs, costumes, and merchandise for the collaborative performance project “Dark Room.” This multimedia performance explores the fable of the blind men and the elephant, integrating physical and virtual elements. The intern will gain hands-on experience in textile design, fabrication techniques, and collaborative prototyping processes. Additionally, the internship will include merchandise development, blending artistic and commercial applications.
 
----
-
 ## Objectives:
 1. Develop and test textile-based prototypes for set designs, assessing compatibility with projection technologies and lighting systems.
 2. Design and fabricate costumes, including custom textiles using experimental inks and repeat pattern motifs.
@@ -33,8 +31,6 @@ Crystal Sanchez will assist with the development of set designs, costumes, and m
 4. Collaborate with other team members, including Anthony Navarro (A/V Intern), to integrate textile and electronic components.
 5. Participate in prototype textile testing, focusing on fabric preparation and identification as outlined in the *SeaChange 360* project.
 6. Investigate methods for attaching fabrics to structural elements as part of the design process.
-
----
 
 ## Responsibilities:
 
@@ -71,8 +67,6 @@ Crystal Sanchez will assist with the development of set designs, costumes, and m
 - Participate in regular meetings with supervisors to discuss progress, challenges, and next steps.
 - Maintain a detailed log of processes, including materials used, techniques applied, and outcomes achieved.
 
----
-
 ## Deliverables:
 1. **Set Prototypes:**
    - Fabric samples tested for projection compatibility, documented with photos and analysis.
@@ -97,14 +91,11 @@ Crystal Sanchez will assist with the development of set designs, costumes, and m
    - Detailed log of activities and results, including visual and written records.
    - Final internship summary report highlighting contributions and learning outcomes.
 
----
-
 ## Resources and Workspace:
 - Access to the City Tech Textile Lab for textile design, printing, and fabrication.
 - Use of the Center for Holistic Integration (CHI) Lab for collaborative and electronic integration tasks.
 - Additional materials sourced from the Textile Lab’s inventory or Material for the Arts.
-
----
+- Virtual collaborations and documentation within the CHI GitHub environment.
 
 ## Timeline (Subject to Change):
 - **Weeks 1–2:** Orientation and setup; initial review of materials and equipment for textile and projection testing. Begin collaboration with the CHI A/V team.
@@ -116,8 +107,6 @@ Crystal Sanchez will assist with the development of set designs, costumes, and m
 - **Weeks 13–14:** Assemble and finalize set prototypes, integrating feedback from testing phases.
 - **Weeks 15–16:** Complete final documentation of all activities, deliverables, and testing results; submit comprehensive internship report.
 
----
-
 ## Evaluation Criteria:
 - Quality and functionality of set and costume prototypes.
 - Creativity and execution of custom textile designs and merchandise.
@@ -126,3 +115,6 @@ Crystal Sanchez will assist with the development of set designs, costumes, and m
 - Ability to collaborate effectively with supervisors, the CHI A/V team, and other team members.
 - Completion of required deliverables within the internship timeframe.
 - Overall contribution to the *SeaChange 360* and “Dark Room” projects.
+
+##  Links
+- [Dropbox administrative repository](https://www.dropbox.com/scl/fo/9w8jd915irz834e1rlvi1/AKp7NnsAUltaZR19fysegiw?rlkey=3cfqcgz0quwbym3rrpqhl26e6&dl=0)
