@@ -32,8 +32,8 @@ Sam Cheung - AI images and videos and also Puppet fabrication. New ones and pupp
 Cordell Lane - Lumbra Chess like game development. Narrative. World Building. Game Origins.  
 Hugo Sanchez - Unity Asset importing and document.  
 Rodrigo Vega - Unreal Shadow Puppet Stage  
-John Powell - Narrative design and Character Development in the BSP world Kevin Pintado - Web development specifics TBA  
-Osakpolar Noyiagbon - Music Creation and COmposition for BSP Performances.  
+John Powell - Narrative design and Character Development in the BSP world Kevin Pintado - Web development specifics TBA    
+Osakpolar Noyiagbon - Music Creation and COmposition for BSP Performances.   
 Kevin Pintado - Website creation and refinement for CHI, AAECA etc.  Integration or conversion of sites from Google to Openlab.  
 Alexandra Tourkova (COMD) Logo and Visual Branding identity development.  
 Anthony Navarro (ENT) - A/V Design and Technology for SeaChange360 testing, Blended Shadow Puppet theatre, and Dark Room.  
