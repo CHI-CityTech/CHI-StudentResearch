@@ -27,19 +27,35 @@ For a document that organizes by project, please see [here](https://github.com/C
 
 THIS IS THE LIST OF RESEARCH PARTICIPANTS.
 
-Tshari Yancey - Scriptwriter, Novelist, Physical Puppet World Building  
-Sam Cheung - AI images and videos and also Puppet fabrication. New ones and puppeteering. World Building  
-Cordell Lane - Lumbra Chess like game development. Narrative. World Building. Game Origins.  
-Hugo Sanchez - Unity Asset importing and document.  
-Rodrigo Vega - Unreal Shadow Puppet Stage  
-John Powell - Narrative design and Character Development in the BSP world Kevin Pintado - Web development specifics TBA    
-Osakpolar Noyiagbon - Music Creation and COmposition for BSP Performances.   
-Kevin Pintado - Website creation and refinement for CHI, AAECA etc.  Integration or conversion of sites from Google to Openlab.  
-Alexandra Tourkova (COMD) Logo and Visual Branding identity development.  
+## Blended Reality Performance System
 Anthony Navarro (ENT) - A/V Design and Technology for SeaChange360 testing, Blended Shadow Puppet theatre, and Dark Room.  
 Crystal Sanchez (BUS) - Textile testing for SeaChange360 and Dark Room.  
 
-Quantum Music Project  
+## Blended Shadow Puppet Project - World Building
+Cordell Lane - Lumbra Chess like game development. Narrative. World Building. Game Origins. 
+John Powell - Narrative design and Character Development in the BSP world  
+
+## Blended Shadow Puppet Theatre Team - Produce Spring Show
+Tshari Yancey - Scriptwriter, Novelist, Physical Puppet World Building  
+Sam Cheung - AI images and videos and also Puppet fabrication. New ones and puppeteering. World Building  
+Osakpolar Noyiagbon - Music Creation and Composition for BSP Performances.   
+Benjamin ? (MET) - Design and fabrication of articulation and armature systems for physical puppets
+
+## Shadow Puppet Virtual World Creation team
+Hugo Sanchez - Unreal Asset importing and document.  
+Rodrigo Vega - Unreal Shadow Puppet Stage  
+
+## CHI Visual and Public Identity Team
+Kevin Pintado - Website creation and refinement for CHI, AAECA etc.  Integration or conversion of sites from Google to Openlab.  
+Alexandra Tourkova (COMD) Logo and Visual Branding identity development.  
+
+## Quantum Music Project Team -  Quantum Music Generation
+(Specific Roles TBD)
+Alyssa Burtsev 
+Mellisa Demolari
+Elizabeth Frias
+Houke Gao
+Stefanie Rivera
 
 
 
