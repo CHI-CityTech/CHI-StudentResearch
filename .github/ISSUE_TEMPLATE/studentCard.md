@@ -3,7 +3,7 @@ name: "Student Project Tracking"
 about: "Tracking student progress"
 description: "Track individual student projects, meetings, and contributions."
 title: "[Student] Project: <Project Name>"
-labels: ["student-project", "tracking"]
+labels: ["student-project"]
 assignees: [davidbrucesmith]
 ---
 
@@ -14,7 +14,8 @@ assignees: [davidbrucesmith]
 - **📌 Project Name:**  
 - **🧑‍🏫 Supervisor:**  
 - **📂 Repositories:** [GitHub Repo 1](#), [GitHub Repo 2](#)  
-- **🔗 Project Links:** [OpenLab](#), [Docs](#), [Other](#)  
+- **🔗 Project Links:** [OpenLab](#), [Docs](#), [Other](#)
+- **📜 Project Proposal** [Proposal Title](#)  
 - **📊 Status:** _Active / On Hold / Completed_  
 - **🏷 Tags:** _Web Dev, AI, Research, etc._  
 
