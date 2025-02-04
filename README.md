@@ -19,8 +19,10 @@ John Powell - Narrative Development
 
 Anthony Navarro - AV Technology and Design for BSP and SeaChange360.  
 
-Kevin Pintado - Website creation and migration CHIIDS.  
 
+#### Independent Studies
+
+Kevin Pintado - Website creation and migration CHIIDS.  
 
 
 
