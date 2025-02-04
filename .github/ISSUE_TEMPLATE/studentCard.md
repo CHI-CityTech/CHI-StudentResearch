@@ -2,7 +2,7 @@
 name: "Student Project Tracking"
 about: "Tracking student progress"
 description: "Track individual student projects, meetings, and contributions."
-title: "[Student] Project: <Project Name>"
+title: "[Student]: <Project Name>"
 labels: ["student-project"]
 assignees: [davidbrucesmith]
 ---
