@@ -17,7 +17,9 @@ Hugo Sanchez - Virtual Asset importing and document.
 Rodrigo Vega - Virtual (Unreal) Shadow Puppet Stage System and Mechanics  
 John Powell - Narrative Development  
 
+Anthony Navarro - AV Technology and Design for BSP and SeaChange360.  
 
+Kevin Pintado - Website creation and migration CHIIDS.  
 
 
 
