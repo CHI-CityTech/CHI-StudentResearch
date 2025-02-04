@@ -11,7 +11,7 @@ Alexandra Tourkova  CHI and Metaproject Logo and branding design.
 Behlul Vardal  Puppet Play Game  
 Cordell Lane -  Lumbra Game (Finishing Fall 2024 internship)
 
-Sam Cheung  -  AI collaboration on visual elements for BSP Theatrical Production.
+Sam Cheung  -  AI collaboration on visual elements for BSP Theatrical Production.  
 Tshari Yancey -  BSP Narrative creation and physical puppet creation  
 Hugo Sanchez - Virtual Asset importing and document.  
 Rodrigo Vega - Virtual (Unreal) Shadow Puppet Stage System and Mechanics  
