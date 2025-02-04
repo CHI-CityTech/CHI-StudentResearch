@@ -1,5 +1,6 @@
 ---
 name: "Student Project Tracking"
+about: "Tracking student progress"
 description: "Track individual student projects, meetings, and contributions."
 title: "[Student] Project: <Project Name>"
 labels: ["student-project", "tracking"]
