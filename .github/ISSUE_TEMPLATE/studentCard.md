@@ -11,7 +11,8 @@ assignees: [davidbrucesmith]
 
 ## **1. Metadata**
 - **👤 Student:**  
-- **📌 Project Name:**  
+- **📌 Project Name:**
+- **Research Type:** _internship, independent study, culmination project, emerging scholar, etc._
 - **🧑‍🏫 Supervisor:**  
 - **📂 Repositories:** [GitHub Repo 1](#), [GitHub Repo 2](#)  
 - **🔗 Project Links:** [OpenLab](#), [Docs](#), [Other](#)
