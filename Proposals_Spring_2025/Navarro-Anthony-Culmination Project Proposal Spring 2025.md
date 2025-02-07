@@ -1,5 +1,6 @@
-**Culmination Project Scope of Work (SoW): Anthony Navarro - Spring 2025**
+##**Culmination Project Scope of Work (SoW): Anthony Navarro - Spring 2025**
 
+**NOTE THIS IS DEPRECATED:  SEE MORE RECENT PROPOSAL [HERE](#)**  
 **Culmination Project Title:** Sound Designer & Projection Technical Lead for Blended Shadow Puppet Theatre  
 **Total Hours:** Minimum 5 independent study hours per week (per course requirements)  
 **Focus Areas:** Sound Design, Multi-Channel Audio Engineering, Projection Integration, Blended Reality Performance Systems, Documentation  
