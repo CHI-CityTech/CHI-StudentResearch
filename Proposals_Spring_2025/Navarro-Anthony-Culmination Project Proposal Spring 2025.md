@@ -1,6 +1,7 @@
 ##**Culmination Project Scope of Work (SoW): Anthony Navarro - Spring 2025**
 
-**NOTE THIS IS DEPRECATED:  SEE MORE RECENT PROPOSAL [HERE](#)**  
+**NOTE: THIS IS DEPRECATED:  SEE MORE RECENT PROPOSAL [HERE]([#](https://github.com/CHI-CityTech/StudentResearch/blob/main/Proposals_Spring_2025/Navarro%20Culmination%20Spring%202025%20V2.md))**  
+
 **Culmination Project Title:** Sound Designer & Projection Technical Lead for Blended Shadow Puppet Theatre  
 **Total Hours:** Minimum 5 independent study hours per week (per course requirements)  
 **Focus Areas:** Sound Design, Multi-Channel Audio Engineering, Projection Integration, Blended Reality Performance Systems, Documentation  
