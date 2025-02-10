@@ -4,6 +4,10 @@ on:
   issues:
     types: [closed]  # Trigger when a student closes an issue (task completion)
 
+permissions:
+  issues: write
+  discussions: write
+
 jobs:
   post-milestone-update:
     runs-on: ubuntu-latest
