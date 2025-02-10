@@ -1,13 +1,13 @@
 ---
-name: "Project Task Card"
-about: "Track progress and document on a specific research task."
+name: "Task Card - Student Research"
+about: "Track progress on a specific research task and document AI collaboration."
 title: "[Task] - Brief Task Name"
 labels: ["Task"]
 assignees: ["@username"]
-projects: [""]
+projects: ["{{ repository }}"]
 ---
 
-# 🎯 Task: [Brief Task Name]
+# 🎯 Task: {{ title }}
 
 ## 🔹 Task Overview
 📌 **Task Description:**  
@@ -15,6 +15,9 @@ projects: [""]
 
 📅 **Due Date:** `[YYYY-MM-DD]`  
 ✅ **Status:** `[In Progress / Blocked / Completed]`  
+
+🔗 **Project Repository:** [{{ repository }}](https://github.com/{{ repository }})  
+🔗 **Meta-Project Board:** [CHI Student Research Board](https://github.com/CHI-CityTech/StudentResearch/projects)  
 
 ---
 
