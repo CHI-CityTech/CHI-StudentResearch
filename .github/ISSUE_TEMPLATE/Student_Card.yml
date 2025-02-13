@@ -1,0 +1,136 @@
+name: Student Card
+description: Student information, projects, and links
+title: "[Student]:<Project Name>"
+labels: 
+  - student-project
+assignees: 
+  - davidbrucesmith
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # 🎯 **Student Project Tracking**
+
+  - type: input
+    id: student_name
+    attributes:
+      label: "👤 Student Name"
+      placeholder: "Enter student name"
+      
+  - type: input
+    id: project_name
+    attributes:
+      label: "📌 Project Name"
+      placeholder: "Enter project title"
+
+  - type: dropdown
+    id: research_type
+    attributes:
+      label: "Research Type"
+      options:
+        - Internship
+        - Independent Study
+        - Culmination Project
+        - Emerging Scholar
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: supervisor
+    attributes:
+      label: "🧑‍🏫 Supervisor"
+      placeholder: "Enter supervisor name"
+
+  - type: textarea
+    id: repositories
+    attributes:
+      label: "📂 Repositories"
+      description: "Provide GitHub repository links"
+      placeholder: "[GitHub Repo 1](#), [GitHub Repo 2](#)"
+
+  - type: textarea
+    id: project_links
+    attributes:
+      label: "🔗 Project Links"
+      description: "Provide any additional relevant links (OpenLab, Docs, etc.)"
+      placeholder: "[OpenLab](#), [Docs](#), [Other](#)"
+
+  - type: input
+    id: project_proposal
+    attributes:
+      label: "📜 Project Proposal"
+      placeholder: "[Proposal Title](#)"
+
+  - type: dropdown
+    id: status
+    attributes:
+      label: "📊 Status"
+      options:
+        - Active
+        - On Hold
+        - Completed
+    validations:
+      required: true
+
+  - type: textarea
+    id: tags
+    attributes:
+      label: "🏷 Tags"
+      description: "List relevant tags (e.g., Web Dev, AI, Research, etc.)"
+      placeholder: "Web Dev, AI, Research"
+
+  - type: markdown
+    attributes:
+      value: "## **2. Project Summary**"
+
+  - type: textarea
+    id: project_description
+    attributes:
+      label: "📜 Brief Description"
+      description: "Provide a short summary of the project"
+
+  - type: textarea
+    id: project_goals
+    attributes:
+      label: "🎯 Goals"
+      description: "List the main goals of this project"
+
+  - type: textarea
+    id: deliverables
+    attributes:
+      label: "📦 Expected Deliverables"
+      description: "Describe the expected outputs"
+
+  - type: markdown
+    attributes:
+      value: "## **3. 📝 Meeting Log & Check-ins**  
+      _(Add meeting updates in comments below this issue.)_"
+
+  - type: markdown
+    attributes:
+      value: "## **4. 📂 Related Activities & Contributions**"
+
+  - type: textarea
+    id: pull_requests
+    attributes:
+      label: "🔄 Pull Requests / Commits"
+      description: "List relevant PRs and commits"
+      placeholder: "[PR #1](#), [PR #2](#)"
+
+  - type: textarea
+    id: research_docs
+    attributes:
+      label: "📑 Research & Documentation"
+      description: "Provide links to notes, presentations, or reports"
+      placeholder: "[Notes](#), [Presentation](#)"
+
+  - type: textarea
+    id: other_contributions
+    attributes:
+      label: "🌍 Other Contributions"
+      description: "Mention any additional work (e.g., OpenLab posts, external research, etc.)"
+      placeholder: "External blogs, social media posts, etc."
+
+  - ty
