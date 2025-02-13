@@ -7,7 +7,7 @@
 - **Zotero Username:** *Missing*
 - **Discord Username:** *Missing*
 - **Project Name:** Quantum Music Project
-- **Repository:** *Missing*
+- **Repository:** [Quantum Music Project Repository](https://github.com/CHI-CityTech/QuantumMusic)
 - **Project:** *Missing*
 - **Semester Goal:** *Missing*
 - **Last Week’s Activity:** *Missing*
@@ -20,9 +20,9 @@
 - **Zotero Username:** *Missing*
 - **Discord Username:** *Missing*
 - **Project Name:** Blended Shadow Puppet
-- **Repository:** *Missing*
+- **Repository:** [BSP-graphic-imagery](https://github.com/CHI-CityTech/BSP-graphic-imagery)
 - **Project:** *Missing*
-- **Semester Goal:** Manufacturing puppets for May 2025 performance
+- **Semester Goal:** Manufacturing puppets for May 2025 performance, Collaborative AI for background and image generation  
 - **Last Week’s Activity:** *Missing*
 - **Resource Links:** *Missing*
 - **Next Week’s Plans:** *Missing*
@@ -33,7 +33,7 @@
 - **Zotero Username:** *Missing*
 - **Discord Username:** *Missing*
 - **Project Name:** Quantum Music Project
-- **Repository:** *Missing*
+- **Repository:** [Quantum Music Project Repository](https://github.com/CHI-CityTech/QuantumMusic)
 - **Project:** *Missing*
 - **Semester Goal:** *Missing*
 - **Last Week’s Activity:** *Missing*
@@ -46,7 +46,7 @@
 - **Zotero Username:** *Missing*
 - **Discord Username:** *Missing*
 - **Project Name:** Quantum Music Project
-- **Repository:** *Missing*
+- **Repository:** [Quantum Music Project Repository](https://github.com/CHI-CityTech/QuantumMusic)
 - **Project:** *Missing*
 - **Semester Goal:** *Missing*
 - **Last Week’s Activity:** *Missing*
@@ -85,7 +85,7 @@
 - **Zotero Username:** *Missing*
 - **Discord Username:** *Missing*
 - **Project Name:** Quantum Music Project
-- **Repository:** *Missing*
+- **Repository:** [Quantum Music Project Repository](https://github.com/CHI-CityTech/QuantumMusic)
 - **Project:** *Missing*
 - **Semester Goal:** *Missing*
 - **Last Week’s Activity:** *Missing*
@@ -98,7 +98,20 @@
 - **Zotero Username:** *Missing*
 - **Discord Username:** *Missing*
 - **Project Name:** Quantum Music Project
-- **Repository:** *Missing*
+- **Repository:** [Quantum Music Project Repository](https://github.com/CHI-CityTech/QuantumMusic)
+- **Project:** *Missing*
+- **Semester Goal:** *Missing*
+- **Last Week’s Activity:** *Missing*
+- **Resource Links:** *Missing*
+- **Next Week’s Plans:** *Missing*
+
+## **Edward Gonzalez**
+- **Activity Type:** Internship
+- **GitHub Username:** *Missing*
+- **Zotero Username:** *Missing*
+- **Discord Username:** *Missing*
+- **Project Name:** AI-Driven Media Control for QLab Using Open Sound Control (OSC)
+- **Repository:** [AI_Media_Control](https://github.com/CHI-CityTech/AI_Media_Control)  
 - **Project:** *Missing*
 - **Semester Goal:** *Missing*
 - **Last Week’s Activity:** *Missing*
@@ -111,7 +124,7 @@
 - **Zotero Username:** *Missing*
 - **Discord Username:** *Missing*
 - **Project Name:** Realtime Collaborative AI for Shadow Puppet
-- **Repository:** *Missing*
+- **Repository:** [AI_Media_Control](https://github.com/CHI-CityTech/AI_Media_Control)
 - **Project:** *Missing*
 - **Semester Goal:** *Missing*
 - **Last Week’s Activity:** *Missing*
@@ -124,7 +137,7 @@
 - **Zotero Username:** CordellLane
 - **Discord Username:** Cordell "BK" Lane
 - **Project Name:** Lumbra
-- **Repository:** *Missing*
+- **Repository:** [Blended Shadow Puppet](https://github.com/CHI-CityTech/Blended-Shadow-Puppet)  
 - **Project:** *Missing*
 - **Semester Goal:** Researching Manichean Heresy for game structure
 - **Last Week’s Activity:** Added Lumbra game rules, sketched layout.
@@ -137,7 +150,20 @@
 - **Zotero Username:** *Missing*
 - **Discord Username:** *Missing*
 - **Project Name:** AV Technologist and Designer for Blended Shadow Puppet Theatre
-- **Repository:** *Missing*
+- **Repository:** [Blended-Shadow-Puppet-Theatre](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre)  
+- **Project:** *Missing*
+- **Semester Goal:** *Missing*
+- **Last Week’s Activity:** *Missing*
+- **Resource Links:** *Missing*
+- **Next Week’s Plans:** *Missing*
+
+## **Anthony Navarro**
+- **Activity Type:** Internship
+- **GitHub Username:** *Missing*
+- **Zotero Username:** *Missing*
+- **Discord Username:** *Missing*
+- **Project Name:** Projection and Fabric Testing for SeaChange360
+- **Repository:** [Blended-Reality-Performance-System](https://github.com/CHI-CityTech/Blended-Reality-Performance-System)
 - **Project:** *Missing*
 - **Semester Goal:** *Missing*
 - **Last Week’s Activity:** *Missing*
@@ -150,7 +176,7 @@
 - **Zotero Username:** *Missing*
 - **Discord Username:** *Missing*
 - **Project Name:** Blended Music for Shadow Puppet Theater performance
-- **Repository:** *Missing*
+- **Repository:** [Blended-Shadow-Puppet-Theatre](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre)
 - **Project:** *Missing*
 - **Semester Goal:** *Missing*
 - **Last Week’s Activity:** *Missing*
@@ -163,7 +189,7 @@
 - **Zotero Username:** *Missing*
 - **Discord Username:** *Missing*
 - **Project Name:** Website creation and migration CHIIDS
-- **Repository:** *Missing*
+- **Repository:** [CHIIDS]([Blended-Shadow-Puppet-Theatre](https://github.com/CHI-CityTech/CHIIDS)
 - **Project:** *Missing*
 - **Semester Goal:** *Missing*
 - **Last Week’s Activity:** *Missing*
@@ -189,7 +215,7 @@
 - **Zotero Username:** *Missing*
 - **Discord Username:** *Missing*
 - **Project Name:** Quantum Music Project
-- **Repository:** *Missing*
+- **Repository:** [Quantum Music Project Repository](https://github.com/CHI-CityTech/QuantumMusic)
 - **Project:** *Missing*
 - **Semester Goal:** *Missing*
 - **Last Week’s Activity:** *Missing*
@@ -222,26 +248,13 @@
 - **Resource Links:** Supportive File Types Instructions to Import Assets on Unreal
 - **Next Week’s Plans:** Become acquainted with cloud services. Next Unreal steps: Rigging and Skinning.
 
-## **Chris Swift**
-- **Activity Type:** Faculty
-- **GitHub Username:** cswift42@gmail.com / cswift
-- **Zotero Username:** *Missing*
-- **Discord Username:** chris_77231
-- **Project Name:** *Missing*
-- **Repository:** *Missing*
-- **Project:** *Missing*
-- **Semester Goal:** *Missing*
-- **Last Week’s Activity:** *Missing*
-- **Resource Links:** *Missing*
-- **Next Week’s Plans:** *Missing*
-
 ## **Alexandra Tourkova**
 - **Activity Type:** Internship
 - **GitHub Username:** *Missing*
 - **Zotero Username:** *Missing*
 - **Discord Username:** *Missing*
 - **Project Name:** CHI and Metaproject Logo and branding design
-- **Repository:** *Missing*
+- **Repository:** [CHI-Branding](https://github.com/CHI-CityTech/CHI-Branding)  
 - **Project:** *Missing*
 - **Semester Goal:** *Missing*
 - **Last Week’s Activity:** *Missing*
@@ -267,7 +280,7 @@
 - **Zotero Username:** Rodrigo2025
 - **Discord Username:** blueskyaqua
 - **Project Name:** Blended Shadow Puppet
-- **Repository:** *Missing*
+- **Repository:** [Shadow_puppet_Unreal](https://github.com/CHI-CityTech/Shadow_puppet_Unreal)
 - **Project:** *Missing*
 - **Semester Goal:** *Missing*
 - **Last Week’s Activity:** Look at how the fixed camera can be used and switchable. Designed alpha shadow shapes.
@@ -306,7 +319,7 @@
 - **Zotero Username:** TshariYancey
 - **Discord Username:** _tshari
 - **Project Name:** Blended Shadow Puppet
-- **Repository:** *Missing*
+- **Repository:** [Blended-Shadow-Puppet-Theatre](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre)
 - **Project:** *Missing*
 - **Semester Goal:** Making physical puppets with laser cutter
 - **Last Week’s Activity:** Writing a Novel with Samuel based on original script.
