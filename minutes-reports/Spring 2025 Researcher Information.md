@@ -2,7 +2,7 @@
 
 
 ## **Alyssa Burtsev**
-- **Activity Type:** Quantum Music Project
+- **Activity Type:** *Missing*
 - **GitHub Username:** *Missing*
 - **Zotero Username:** *Missing*
 - **Discord Username:** *Missing*
@@ -28,7 +28,7 @@
 - **Next Week’s Plans:** *Missing*
 
 ## **Sunima Danzol**
-- **Activity Type:** Quantum Music Project
+- **Activity Type:** External researcher
 - **GitHub Username:** *Missing*
 - **Zotero Username:** *Missing*
 - **Discord Username:** *Missing*
@@ -41,7 +41,7 @@
 - **Next Week’s Plans:** *Missing*
 
 ## **Melissa Demollari**
-- **Activity Type:** Quantum Music Project
+- **Activity Type:** *Missing*
 - **GitHub Username:** *Missing*
 - **Zotero Username:** *Missing*
 - **Discord Username:** *Missing*
@@ -80,7 +80,7 @@
 - **Next Week’s Plans:** *Missing*
 
 ## **Elizabeth Frias**
-- **Activity Type:** Quantum Music Project
+- **Activity Type:** *Missing*
 - **GitHub Username:** *Missing*
 - **Zotero Username:** *Missing*
 - **Discord Username:** *Missing*
@@ -93,7 +93,7 @@
 - **Next Week’s Plans:** *Missing*
 
 ## **Houke Gao**
-- **Activity Type:** Quantum Music Project
+- **Activity Type:** *Missing*
 - **GitHub Username:** *Missing*
 - **Zotero Username:** *Missing*
 - **Discord Username:** *Missing*
