@@ -1,10 +1,10 @@
 ---
-name: "Task Card - Student Research"
-about: "Track progress on a specific research task and document AI collaboration."
+name: Task Card - Student Research
+about: Track progress on a specific research task and document AI collaboration.
 title: "[Task] - Brief Task Name"
-labels: ["Task"]
-assignees: ["@username"]
-projects: ["{{ repository }}"]
+labels: student-project
+assignees: davidbrucesmith
+
 ---
 
 # 🎯 Task: {{ title }}

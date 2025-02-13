@@ -1,10 +1,10 @@
 ---
-name: "Student Project Tracking"
-about: "Tracking student progress"
-description: "Track individual student projects, meetings, and contributions."
+name: Student Project Tracking
+about: Tracking student progress
 title: "[Student]:<Project Name>"
-labels: ["student-project"]
-assignees: [davidbrucesmith]
+labels: student-project
+assignees: davidbrucesmith
+
 ---
 
 # 🎯 **Student Project Tracking**
@@ -53,4 +53,4 @@ _(Add more rows as needed.)_
 
 ---
 
-✏️ **Updates can be added as comments to this issue.**  
+✏️ **Updates can be added as comments to this issue.**
