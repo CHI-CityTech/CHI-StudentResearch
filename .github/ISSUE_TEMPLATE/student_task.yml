@@ -1,43 +1,102 @@
----
-name: Student_Task.yml
-about: Describe this issue template's purpose here.
-title: Task
-labels: ''
-assignees: ''
+name: "Task Issue"
+description: "Template for tracking tasks with AI collaboration."
+title: "[Task]: "
+labels:
+  - "task"
+  - "AI-collaboration"
+assignees: []
 
----
+body:
+  - type: markdown
+    attributes:
+      value: "## 🎯 Task: {{ title }}"
 
-task:
-  title: "{{ title }}"
+  - type: textarea
+    id: task_description
+    attributes:
+      label: "📌 Task Description"
+      description: "Briefly describe the task and its goals."
+      placeholder: "Describe the task in detail..."
+    validations:
+      required: true
 
-task_overview:
-  description: "[Briefly describe the task and its goals.]"
-  due_date: "[YYYY-MM-DD]"
-  status: "[In Progress / Blocked / Completed]"
-  repository: "{{ repository }}"
-  repository_link: "https://github.com/{{ repository }}"
-  meta_project_board: "https://github.com/CHI-CityTech/StudentResearch/projects"
+  - type: input
+    id: due_date
+    attributes:
+      label: "📅 Due Date"
+      description: "Enter the task due date (YYYY-MM-DD)."
+      placeholder: "YYYY-MM-DD"
+    validations:
+      required: true
 
-subtasks:
-  - description: "[Define first subtask]"
-    completed: false
-  - description: "[Define second subtask]"
-    completed: false
-  - description: "[Define third subtask]"
-    completed: false
+  - type: dropdown
+    id: status
+    attributes:
+      label: "✅ Status"
+      description: "Select the current status of the task."
+      options:
+        - "In Progress"
+        - "Blocked"
+        - "Completed"
+    validations:
+      required: true
 
-related_issues:
-  - "[Add link to related issue #1]"
-  - "[Add link to related issue #2]"
+  - type: input
+    id: repository
+    attributes:
+      label: "🔗 Project Repository"
+      description: "Enter the GitHub repository name."
+      placeholder: "example/repository"
 
-ai_collaboration_report:
-  ai_tools_used:
-    chatgpt: false
-    github_copilot: false
-    ai_data_analysis_tool: false
-    other: "[Specify]"
-  ai_assistance:
-    role: "[Idea Generation / Code Suggestion / Research Assistance / Debugging / Writing Help]"
-    refinement: "[Did you modify, reject, or iterate upon AI-generated content?]"
-    impact: "[Did AI speed up your process? Did it introduce new insights?]"
-  final_reflection: "[Write a short summary on how AI influenced this task.]"
+  - type: textarea
+    id: subtasks
+    attributes:
+      label: "🏗️ Subtasks & Progress Tracking"
+      description: "List the steps required to complete this task."
+      placeholder: "- Step 1: Define first subtask\n- Step 2: Define second subtask\n- Step 3: Define third subtask"
+
+  - type: textarea
+    id: related_issues
+    attributes:
+      label: "🔗 Related Issues"
+      description: "List any related GitHub issues (one per line)."
+      placeholder: "- https://github.com/CHI-CityTech/Project/issues/12\n- https://github.com/CHI-CityTech/Project/issues/15"
+
+  - type: checkboxes
+    id: ai_tools_used
+    attributes:
+      label: "🤖 AI Tools Used"
+      description: "Select the AI tools you used for this task."
+      options:
+        - label: "ChatGPT"
+        - label: "GitHub Copilot"
+        - label: "AI Data Analysis Tool"
+        - label: "Other (Specify below)"
+
+  - type: textarea
+    id: ai_role
+    attributes:
+      label: "📌 AI's Role in This Task"
+      description: "What was AI's role in assisting this task?"
+      placeholder: "Idea Generation / Code Suggestion / Research Assistance / Debugging / Writing Help"
+
+  - type: textarea
+    id: ai_refinement
+    attributes:
+      label: "🔄 How I Refined AI Output"
+      description: "Did you modify, reject, or iterate upon AI-generated content?"
+      placeholder: "Describe how you adjusted AI-generated content."
+
+  - type: textarea
+    id: ai_impact
+    attributes:
+      label: "📈 Impact on Efficiency & Creativity"
+      description: "Did AI speed up your process? Did it introduce new insights?"
+      placeholder: "Explain how AI influenced your workflow."
+
+  - type: textarea
+    id: final_reflection
+    attributes:
+      label: "✅ Final Reflection on AI Collaboration"
+      description: "Summarize how AI influenced this task."
+      placeholder: "Provide a short reflection."
