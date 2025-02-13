@@ -1,29 +1,50 @@
 # StudentResearch
 Repository for student research proposals and activities across all CHI Meta-projects.
 
-This repository holds proposals, student activities, and links to the associated repositories and deliverables.
+This repository holds proposals, student activities, and links to the associated repositories and deliverables.  It also holds the meta-project management board, that links to other repositories and projects.  
 
 Spring 2025  
 #### Internships
 
-Crystal Sanchez (Nazanin Munroe Advisor)  Textile projects for SeaChange360 and Dark Room.  
-Alexandra Tourkova  CHI and Metaproject Logo and branding design.  
-Behlul Vardal  Puppet Play Game  
+Crystal Sanchez - (Nazanin Munroe Advisor)  Textile projects for SeaChange360 and Dark Room.  
+Alexandra Tourkova - CHI and Metaproject Logo and branding design.  
+Behlul Vardal - Puppet Play Game  
 Cordell Lane -  Lumbra Game (Finishing Fall 2024 internship)
 
 Sam Cheung  -  AI collaboration on visual elements for BSP Theatrical Production.  
 Tshari Yancey -  BSP Narrative creation and physical puppet creation  
-Hugo Sanchez - Virtual Asset importing and document.  
+John Powell - Narrative Development  for Shadow Puppet World.
+
 Rodrigo Vega - Virtual (Unreal) Shadow Puppet Stage System and Mechanics  
-John Powell - Narrative Development  
+Hugo Sanchez - Virtual Asset importing and document.  
 
-Anthony Navarro - AV Technology and Design for BSP and SeaChange360.  
+Anthony Navarro - Projection and textile testing for SeaChange360.  
 
+Adam White - TBA
+William Dunayevich - TBA
+
+#### Emerging Scholar
+
+Ben Watson - Dynamic Physical Dragon Puppet development.
+
+#### Culmination Project
+
+Anthony Navarro - AV Technologist and Designer for Blended Shadow Puppet Theatre
+Osakpolor Noyiagbon - Blended Music for Shadow Puppet Theater performance.
 
 #### Independent Studies
 
-Kevin Pintado - Website creation and migration CHIIDS.  
+Kevin Pintado - Website creation and migration CHIIDS. 
+Reginald Fairly - Interactive physical toy
 
+#### Federal Work Study
 
+Kazi Islam - Realtime Collaborative AI for Shadow Puppet
 
-
+#### Quantum Music Project
+Stefanie Rivera  - Quantum Music Project  
+Elizabeth Frias - Quantum Music Project  
+Melissa Demollari - Quantum Music Project  
+Houke Gao  - Quantum Music Project  
+Alyssa Burtsev - Quantum Music Project  
+Sunima Danzol - Quantum Music project  
