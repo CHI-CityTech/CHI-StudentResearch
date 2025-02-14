@@ -1,0 +1,96 @@
+name: "Project Task Issue"
+description: "Template for tracking individual project tasks."
+labels: [task, tracking]
+assignees: []
+body:
+  - type: input
+    id: task_name
+    attributes:
+      label: "Task Name"
+      description: "Enter the task name"
+    validations:
+      required: true
+
+  - type: input
+    id: milestone
+    attributes:
+      label: "Associated Milestone"
+      description: "Enter the milestone this task is associated with"
+    validations:
+      required: true
+
+  - type: input
+    id: week
+    attributes:
+      label: "Week"
+      description: "Enter the corresponding week number"
+    validations:
+      required: true
+
+  - type: input
+    id: due_date
+    attributes:
+      label: "Due Date"
+      description: "Enter the due date for this task"
+    validations:
+      required: true
+
+  - type: textarea
+    id: task_description
+    attributes:
+      label: "Task Description"
+      description: "Provide a brief description of what this task entails"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: status
+    attributes:
+      label: "Status"
+      description: "Select the current status of the task"
+      options:
+        - "Not Started"
+        - "In Progress"
+        - "Completed"
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Steps to Complete"
+      description: "List the steps needed to complete this task"
+    validations:
+      required: true
+
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: "Dependencies"
+      description: "List any other tasks or resources required before starting this task"
+
+  - type: textarea
+    id: challenges
+    attributes:
+      label: "Challenges & Notes"
+      description: "Describe any potential roadblocks or important considerations"
+
+  - type: textarea
+    id: review_feedback
+    attributes:
+      label: "Review & Feedback"
+      description: "Request feedback from at least one peer or instructor"
+
+  - type: textarea
+    id: next_steps
+    attributes:
+      label: "Next Steps"
+      description: "Outline what follows after completing this task"
+
+  - type: checkboxes
+    id: final_check
+    attributes:
+      label: "Final Check"
+      options:
+        - label: "Ensure all steps are completed before marking this issue as Completed"
+          required: true
