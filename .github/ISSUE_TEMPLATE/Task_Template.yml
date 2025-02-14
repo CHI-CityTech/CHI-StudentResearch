@@ -1,4 +1,4 @@
-name: "Task Issue w AI"
+name: "Project Task Issue"
 description: "Template for tracking individual project tasks."
 labels: [task, tracking]
 assignees: []
@@ -81,13 +81,7 @@ body:
       label: "Review & Feedback"
       description: "Request feedback from at least one peer or instructor"
 
-  - type: textarea
-    id: ai_use
-    attributes:
-      label: "AI Use in Task"
-      description: "Describe how AI was used in completing this task, if applicable. Include any tools or AI-generated outputs."
-
-  - type: dropdown
+    - type: dropdown
     id: ai_label
     attributes:
       label: "AI Involvement Level"
@@ -99,6 +93,12 @@ body:
         - "Extensive AI Use"
     validations:
       required: true
+
+- type: textarea
+    id: ai_use
+    attributes:
+      label: "AI Use in Task"
+      description: "If AI was used, Describe which AI was used in completing this task, if applicable. Include any tools or AI-generated outputs."
 
   - type: textarea
     id: next_steps
