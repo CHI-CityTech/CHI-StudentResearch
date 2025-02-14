@@ -75,13 +75,13 @@ body:
       label: "Challenges & Notes"
       description: "Describe any potential roadblocks or important considerations"
 
-   - type: textarea
+  - type: textarea
     id: review_feedback
     attributes:
       label: "Review & Feedback"
       description: "Request feedback from at least one peer or instructor"
 
-    - type: dropdown
+  - type: dropdown
     id: ai_label
     attributes:
       label: "AI Involvement Level"
@@ -92,11 +92,11 @@ body:
         - "Moderate AI Involvement"
         - "Extensive AI Use"
 
-- type: textarea
+  - type: textarea
     id: ai_use
     attributes:
       label: "AI Use in Task"
-      description: "If AI was used, Describe which AI was used in completing this task, if applicable. Include any tools or AI-generated outputs."
+      description: "If AI was used, describe which AI tools were used in completing this task and how they contributed."
 
   - type: textarea
     id: next_steps
