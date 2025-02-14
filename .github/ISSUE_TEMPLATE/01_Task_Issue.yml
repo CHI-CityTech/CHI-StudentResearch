@@ -4,14 +4,6 @@ labels: [task, tracking]
 assignees: []
 body:
   - type: input
-    id: task_name
-    attributes:
-      label: "Task Name"
-      description: "Enter the task name"
-    validations:
-      required: true
-
-  - type: input
     id: milestone
     attributes:
       label: "Associated Milestone"
