@@ -16,24 +16,12 @@ body:
     attributes:
       label: "Associated Milestone"
       description: "Enter the milestone this task is associated with"
-    validations:
-      required: true
-
-  - type: input
-    id: week
-    attributes:
-      label: "Week"
-      description: "Enter the corresponding week number"
-    validations:
-      required: true
 
   - type: input
     id: due_date
     attributes:
       label: "Due Date"
       description: "Enter the due date for this task"
-    validations:
-      required: true
 
   - type: textarea
     id: task_description
