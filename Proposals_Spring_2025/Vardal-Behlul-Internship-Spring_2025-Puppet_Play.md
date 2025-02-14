@@ -1,4 +1,4 @@
-# Internship Proposal: Behlul Vardal, Emerging Media Student
+# Internship Proposal: Behlul Vardal, Emerging Media Student 
 
 **Project Title**: Development of Facial Puppetry and Dynamic Perspective Tools  
 **Intern**: Behlul Vardal  
