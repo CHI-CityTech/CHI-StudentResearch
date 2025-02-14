@@ -1,4 +1,4 @@
-name: "Task Issue"
+name: "01 Task Issue"
 description: "Template for tracking individual project tasks."
 labels: [task, tracking]
 assignees: []
