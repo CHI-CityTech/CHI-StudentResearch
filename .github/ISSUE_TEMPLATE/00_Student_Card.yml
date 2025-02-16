@@ -54,7 +54,7 @@ body:
     id: project_links
     attributes:
       label: "🔗 Project Links"
-      description: "Provide any additional relevant links (OpenLab, Docs, etc.)"
+      description: "Any additional relevant links (OpenLab, Docs, etc.)"
       placeholder: "[OpenLab](#), [Docs](#), [Other](#)"
 
   - type: input
