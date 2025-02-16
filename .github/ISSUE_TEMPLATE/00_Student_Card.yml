@@ -2,7 +2,7 @@ name: Student Card
 description: Master card with student project, links, and repositories
 title: "[Student]:<Project Name>"
 labels: 
-  - student-project
+  - master-card
 assignees: 
   - davidbrucesmith
 
