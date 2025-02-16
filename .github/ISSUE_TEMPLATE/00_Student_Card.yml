@@ -1,4 +1,4 @@
-name: "Student Card"
+name: Student Card
 description: Master card with student project, links, and repositories
 title: "[Student]:<Project Name>"
 labels: 
@@ -44,7 +44,7 @@ body:
       description: "Link to their project"
       placeholder: "[Project_Board_Name](#)"
 
- - type: textarea
+  - type: textarea
     id: project_links
     attributes:
       label: "🔗 Project Links"
@@ -117,45 +117,4 @@ body:
 
   - type: markdown
     attributes:
-      value: "## **4. 📂 Related Activities & Contributions**"
-
-  - type: textarea
-    id: pull_requests
-    attributes:
-      label: "🔄 Pull Requests / Commits"
-      description: "List relevant PRs and commits"
-      placeholder: "[PR #1](#), [PR #2](#)"
-
-  - type: textarea
-    id: research_docs
-    attributes:
-      label: "📑 Research & Documentation"
-      description: "Provide links to notes, presentations, or reports"
-      placeholder: "[Notes](#), [Presentation](#)"
-
-  - type: textarea
-    id: other_contributions
-    attributes:
-      label: "🌍 Other Contributions"
-      description: "Mention any additional work (e.g., OpenLab posts, external research, etc.)"
-      placeholder: "External blogs, social media posts, etc."
-
-  - type: markdown
-    attributes:
-      value: "## **5. 🏆 Notes & Supervisor Feedback**"
-
-  - type: textarea
-    id: general_observations
-    attributes:
-      label: "🔍 General Observations"
-      description: "Supervisor notes on student progress"
-
-  - type: textarea
-    id: feedback_suggestions
-    attributes:
-      label: "💡 Feedback & Suggestions"
-      description: "Provide constructive feedback or guidance"
-
-  - type: markdown
-    attributes:
-      value: "✏️ **Updates can be added as comments to this issue.**"
+      value: "## **4. 📂 Related 
