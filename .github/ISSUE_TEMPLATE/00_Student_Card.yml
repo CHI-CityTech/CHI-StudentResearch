@@ -24,19 +24,6 @@ body:
       label: "📌 Project Name"
       placeholder: "Enter project title"
 
-  - type: dropdown
-    id: research_type
-    attributes:
-      label: "Research Type"
-      options:
-        - Internship
-        - Independent Study
-        - Culmination Project
-        - Emerging Scholar
-        - Other
-    validations:
-      required: true
-
   - type: input
     id: supervisor
     attributes:
@@ -51,6 +38,13 @@ body:
       placeholder: "[GitHub Repo 1](#), [GitHub Repo 2](#)"
 
   - type: textarea
+    id: project_boards
+    attributes:
+      label: "🎯 Project Board"
+      description: "Link to their project"
+      placeholder: "[Project_Board_Name](#)"
+
+ - type: textarea
     id: project_links
     attributes:
       label: "🔗 Project Links"
@@ -71,6 +65,19 @@ body:
         - Active
         - On Hold
         - Completed
+    validations:
+      required: true
+
+  - type: dropdown
+    id: research_type
+    attributes:
+      label: "Research Type"
+      options:
+        - Internship
+        - Independent Study
+        - Culmination Project
+        - Emerging Scholar
+        - Other
     validations:
       required: true
 
