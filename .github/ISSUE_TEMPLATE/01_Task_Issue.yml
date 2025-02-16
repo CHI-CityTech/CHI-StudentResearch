@@ -3,6 +3,14 @@ description: "Template for tracking individual project tasks."
 labels: [task, tracking]
 assignees: []
 body:
+ - type: textarea
+    id: task_description
+    attributes:
+      label: "Task Description"
+      description: "Provide a brief description of what this task entails"
+    validations:
+      required: true
+
   - type: input
     id: milestone
     attributes:
@@ -15,15 +23,7 @@ body:
       label: "Due Date"
       description: "Enter the due date for this task"
 
-  - type: textarea
-    id: task_description
-    attributes:
-      label: "Task Description"
-      description: "Provide a brief description of what this task entails"
-    validations:
-      required: true
-
-  - type: dropdown
+   - type: dropdown
     id: status
     attributes:
       label: "Status"
