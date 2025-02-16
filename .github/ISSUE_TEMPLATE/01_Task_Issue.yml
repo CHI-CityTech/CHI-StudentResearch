@@ -3,7 +3,7 @@ description: "Template for tracking individual project tasks."
 labels: [task, tracking]
 assignees: []
 body:
- - type: textarea
+  - type: textarea
     id: task_description
     attributes:
       label: "Task Description"
@@ -23,7 +23,7 @@ body:
       label: "Due Date"
       description: "Enter the due date for this task"
 
-   - type: dropdown
+  - type: dropdown
     id: status
     attributes:
       label: "Status"
