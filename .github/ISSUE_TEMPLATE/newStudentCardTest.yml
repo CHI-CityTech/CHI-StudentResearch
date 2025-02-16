@@ -1,6 +1,7 @@
 name: "Master Student Card"
 description: "A central issue for tracking an individual student's research progress."
 labels: [master-card, student-profile]
+projects: ["CHI-CityTech/projects/34"]
 assignees: []
 body:
   - type: markdown
