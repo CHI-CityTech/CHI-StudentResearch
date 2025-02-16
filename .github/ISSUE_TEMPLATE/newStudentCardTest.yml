@@ -1,0 +1,64 @@
+name: "Master Student Card"
+description: "A central issue for tracking an individual student's research progress."
+labels: [master-card, student-profile]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: "### 🎓 **Master Student Card**\nThis issue serves as the central tracking card for a student's research activities."
+
+  - type: input
+    id: student_name
+    attributes:
+      label: "🆔 Student Name"
+      description: "Enter your full name."
+      placeholder: "E.g., Jane Doe"
+
+  - type: input
+    id: github_username
+    attributes:
+      label: "🐙 GitHub Username"
+      description: "Enter your GitHub handle."
+      placeholder: "E.g., @janedoe"
+
+  - type: input
+    id: project_repo
+    attributes:
+      label: "📂 Project Repository"
+      description: "Provide the GitHub repository link for your project."
+      placeholder: "E.g., https://github.com/YOUR_ORG/YOUR_PROJECT"
+
+  - type: textarea
+    id: research_focus
+    attributes:
+      label: "🔍 Research Focus"
+      description: "Describe the key research area you are working on."
+      placeholder: "E.g., Blended Reality Performance Systems and AI collaboration"
+
+  - type: textarea
+    id: weekly_checkins
+    attributes:
+      label: "📆 Weekly Check-ins"
+      description: "This section will be automatically updated as new Weekly Check-ins are submitted."
+      value: "No check-ins yet."
+
+  - type: textarea
+    id: milestones
+    attributes:
+      label: "🚀 Milestones"
+      description: "List major milestones and progress tracking points."
+      placeholder: "- Proposal Submitted\n- Prototype Development\n- Final Presentation"
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: "📝 Additional Notes"
+      description: "Any extra details, challenges, or feedback regarding this research."
+
+  - type: checkboxes
+    id: final_check
+    attributes:
+      label: "✅ Final Confirmation"
+      options:
+        - label: "I confirm this card will be used for my research tracking."
+          required: true
