@@ -32,7 +32,7 @@ Ben Watson - Dynamic Physical Dragon Puppet development.
 
 #### Culmination Project
 
-Anthony Navarro - AV Technologist and Designer for Blended Shadow Puppet Theatre
+Anthony Navarro - AV Technologist and Designer for Blended Shadow Puppet Theatre.  
 Osakpolor Noyiagbon - Blended Music for Shadow Puppet Theater performance.
 
 #### Independent Studies
