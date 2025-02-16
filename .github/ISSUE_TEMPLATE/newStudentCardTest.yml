@@ -5,7 +5,9 @@ assignees: []
 body:
   - type: markdown
     attributes:
-      value: "### 🎓 **Master Student Card**\nThis issue serves as the central tracking card for a student's research activities."
+      value: |
+        ### 🎓 **Master Student Card**
+        This issue serves as the central tracking card for a student's research activities.
 
   - type: input
     id: student_name
@@ -52,4 +54,13 @@ body:
   - type: textarea
     id: notes
     attributes:
-      label: 
+      label: "📝 Additional Notes"
+      description: "Any extra details, challenges, or feedback regarding this research."
+
+  - type: checkboxes
+    id: final_check
+    attributes:
+      label: "✅ Final Confirmation"
+      options:
+        - label: "I confirm this card will be used for my research tracking."
+          required: true
