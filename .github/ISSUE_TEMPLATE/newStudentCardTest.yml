@@ -1,6 +1,60 @@
+name: "Master Student Card Request"
+description: "Students submit their details here. An admin will convert this into a Master Student Card."
+labels: [master-card-request]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 🎓 **Master Student Card Request**
+        This form allows students to request the creation of a Master Student Card. An admin will review and convert it into an official tracking card.
+
+  - type: input
+    id: student_name
+    attributes:
+      label: "🆔 Student Name (GitHub Handle Preferred)"
+      description: "Use your GitHub handle (`@username`) to create a direct profile link."
+      placeholder: "E.g., @janedoe"
+
+  - type: input
+    id: github_username
+    attributes:
+      label: "🐙 GitHub Username"
+      description: "Enter your GitHub handle."
+      placeholder: "E.g., janedoe"
+
+  - type: input
+    id: project_repo
+    attributes:
+      label: "📂 Project Repository"
+      description: "Provide the GitHub repository link for your project."
+      placeholder: "E.g., https://github.com/YOUR_ORG/YOUR_PROJECT"
+
   - type: input
     id: project_board
     attributes:
       label: "📌 GitHub Project Board"
       description: "Provide the link to your GitHub Project Board for tracking tasks."
       placeholder: "E.g., https://github.com/orgs/YOUR_ORG/projects/XX"
+
+  - type: textarea
+    id: research_focus
+    attributes:
+      label: "🔍 Research Focus"
+      description: "Describe your research focus or project goal."
+      placeholder: "E.g., Blended Reality Performance Systems and AI collaboration"
+
+  - type: textarea
+    id: additional_notes
+    attributes:
+      label: "📝 Additional Notes"
+      description: "Any extra details or considerations for the admin."
+      placeholder: "E.g., 'I need access to certain tools' or 'I have a deadline of March 15th.'"
+
+  - type: checkboxes
+    id: final_check
+    attributes:
+      label: "✅ Final Confirmation"
+      options:
+        - label: "I confirm that all information is correct and this is my official Master Student Card request."
+          required: true
