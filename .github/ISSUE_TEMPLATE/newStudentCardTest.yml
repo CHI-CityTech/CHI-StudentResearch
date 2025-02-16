@@ -10,16 +10,16 @@ body:
   - type: input
     id: student_name
     attributes:
-      label: "🆔 Student Name"
-      description: "Enter your full name."
-      placeholder: "E.g., Jane Doe"
+      label: "🆔 Student Name (GitHub Handle Preferred)"
+      description: "Use your GitHub handle (`@username`) to create a direct profile link."
+      placeholder: "E.g., @janedoe"
 
   - type: input
     id: github_username
     attributes:
       label: "🐙 GitHub Username"
-      description: "Enter your GitHub handle."
-      placeholder: "E.g., @janedoe"
+      description: "If not using `@username` above, enter your GitHub handle here."
+      placeholder: "E.g., janedoe"
 
   - type: input
     id: project_repo
@@ -52,13 +52,4 @@ body:
   - type: textarea
     id: notes
     attributes:
-      label: "📝 Additional Notes"
-      description: "Any extra details, challenges, or feedback regarding this research."
-
-  - type: checkboxes
-    id: final_check
-    attributes:
-      label: "✅ Final Confirmation"
-      options:
-        - label: "I confirm this card will be used for my research tracking."
-          required: true
+      label: 
