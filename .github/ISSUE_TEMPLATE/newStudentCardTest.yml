@@ -1,13 +1,13 @@
-name: "Master Student Card Request"
-description: "Students submit their details here. An admin will convert this into a Master Student Card."
-labels: [master-card-request]
+name: "Master Student Card"
+description: "A central issue for tracking an individual student's research progress."
+labels: [master-card, student-profile]
 assignees: []
 body:
   - type: markdown
     attributes:
       value: |
-        ### 🎓 **Master Student Card Request**
-        This form allows students to request the creation of a Master Student Card. An admin will review and convert it into an official tracking card.
+        ### 🎓 **Master Student Card**
+        This issue serves as the central tracking card for a student's research activities.
 
   - type: input
     id: student_name
@@ -20,7 +20,7 @@ body:
     id: github_username
     attributes:
       label: "🐙 GitHub Username"
-      description: "Enter your GitHub handle."
+      description: "If not using `@username` above, enter your GitHub handle here."
       placeholder: "E.g., janedoe"
 
   - type: input
@@ -41,20 +41,33 @@ body:
     id: research_focus
     attributes:
       label: "🔍 Research Focus"
-      description: "Describe your research focus or project goal."
+      description: "Describe the key research area you are working on."
       placeholder: "E.g., Blended Reality Performance Systems and AI collaboration"
 
   - type: textarea
-    id: additional_notes
+    id: weekly_checkins
+    attributes:
+      label: "📆 Weekly Check-ins"
+      description: "This section will be automatically updated as new Weekly Check-ins are submitted."
+      value: "No check-ins yet."
+
+  - type: textarea
+    id: milestones
+    attributes:
+      label: "🚀 Milestones"
+      description: "List major milestones and progress tracking points."
+      placeholder: "- Proposal Submitted\n- Prototype Development\n- Final Presentation"
+
+  - type: textarea
+    id: notes
     attributes:
       label: "📝 Additional Notes"
-      description: "Any extra details or considerations for the admin."
-      placeholder: "E.g., 'I need access to certain tools' or 'I have a deadline of March 15th.'"
+      description: "Any extra details, challenges, or feedback regarding this research."
 
   - type: checkboxes
     id: final_check
     attributes:
       label: "✅ Final Confirmation"
       options:
-        - label: "I confirm that all information is correct and this is my official Master Student Card request."
+        - label: "I confirm this card will be used for my research tracking."
           required: true
