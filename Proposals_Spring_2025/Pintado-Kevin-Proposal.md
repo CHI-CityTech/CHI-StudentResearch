@@ -65,7 +65,10 @@ This project will provide **practical experience in web development**, **system 
 ### Weeks 1–3: Research (15-20 Hours)  
 - Investigate best practices for **GitHub Pages** and **OpenLab** migrations.  
 - Research **responsive design, accessibility standards, and branding integration** techniques.  
-- Explore **API options** for dynamic content synchronization across platforms.  
+- Explore **API options** for dynamic content synchronization across platforms.
+  - API's into and out of OpenLab/WordPress
+  - API's into and out of GItHub
+  - Research and identify most importantly OpenLab/WordPress API's, integrations, and other applications that makes these types of dynamic connections  
 - **Deliverable:** Research summary and project roadmap.  
 
 ### Weeks 4–6: Design (20-25 Hours)  
