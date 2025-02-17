@@ -1,4 +1,4 @@
-name: "Master Student Card"
+name: "01-Master Student Card"
 description: "A central issue for tracking an individual student's research progress."
 labels: [master-card, student-profile]
 projects: ["CHI-CityTech/34"]
