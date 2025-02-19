@@ -25,6 +25,19 @@ body:
       placeholder: "E.g., janedoe"
 
   - type: input
+    id: zotero_username
+    attributes:
+      label: "🐙 Zotero Username"
+      description: "Enter your Zotero user name here."
+      placeholder: "E.g., janedoe"
+      
+  - type: input
+    id: discord_username
+    attributes:
+      label: "🐙 Discord Username"
+      description: "Enter your Discord user name here."
+      placeholder: "E.g., janedoe"
+  - type: input
     id: project_repo
     attributes:
       label: "📂 Project Repository"
@@ -51,13 +64,6 @@ body:
       label: "📆 Weekly Check-ins"
       description: "This section will be automatically updated as new Weekly Check-ins are submitted."
       value: "No check-ins yet."
-
-  - type: textarea
-    id: milestones
-    attributes:
-      label: "🚀 Milestones"
-      description: "List major milestones and progress tracking points."
-      placeholder: "- Proposal Submitted\n- Prototype Development\n- Final Presentation"
 
   - type: textarea
     id: notes
