@@ -3,14 +3,28 @@ Repository for student research proposals and activities across all CHI Meta-pro
 
 This repository holds proposals, student activities, and links to the associated repositories and deliverables.  It also holds the meta-project management board, that links to other repositories and projects.  
 
-## Research Teans
-CHI-UberTeam
-[Blended Shadow Puppet Theatre (BSP) Spring Production](https://github.com/orgs/CHI-CityTech/teams/bsp-spring-production)
+## Spring 2025  
+#### Research Teans
+CHI-UberTeam  
+[Blended Shadow Puppet Theatre (BSP) Spring Production](https://github.com/orgs/CHI-CityTech/teams/bsp-spring-production)  
+The Spring Production, with expanded script, puppets, and technology.  
 
 [UnReal Environment](https://github.com/orgs/CHI-CityTech/teams/unreal-environment)  
-Developing a virtual half of the Blended Shadow Puppet world.
+Developing a virtual half of the Blended Shadow Puppet Theatre.
 
-Spring 2025  
+[AI Media Control](https://github.com/orgs/CHI-CityTech/teams/ai_media-control)  
+Using AI in realtime to collaborate on design and media delivery.  
+
+[CHIIDS-Website](https://github.com/orgs/CHI-CityTech/teams/chiids-website)  
+Public facing and brand development
+
+[QuantumMusic](https://github.com/orgs/CHI-CityTech/teams/quantummusic)  
+Exploring the conversion of Quantum Computing and AI to generate music in specific styles or combinations of styles.  
+
+
+
+
+
 #### Internships
 
 Crystal Sanchez - (Nazanin Munroe Advisor)  Textile projects for SeaChange360 and Dark Room.  
