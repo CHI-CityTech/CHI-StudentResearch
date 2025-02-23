@@ -7,16 +7,16 @@ This repository holds proposals, student activities, and links to the associated
 #### Research Teans
 CHI-UberTeam  
 [Blended Shadow Puppet Theatre (BSP) Spring Production](https://github.com/orgs/CHI-CityTech/teams/bsp-spring-production)  
-The Spring Production, with expanded script, puppets, and technology.  
+The Spring Blended Shadow Puppet Theatre Production, with expanded script, puppets, and technology.  This semester, we integrate front projection, as well as the introduciton of textile-based scenery that blends with projection.  We also extend the script, explore more articulated puppetry, some with machine or mechanism control, compose original music, and engineer a more sophisticated surround sound system.   
 
 [UnReal Environment](https://github.com/orgs/CHI-CityTech/teams/unreal-environment)  
-Developing a virtual half of the Blended Shadow Puppet Theatre.
+Developing a virtual half of the Blended Shadow Puppet Theatre.  This semester we investigate the way that shadows and light sources combine within the UnReal Environment, and then we work to import equivalent assets used in the physical production.  This sets the stage for future ibtefgrations between physical and virtual environments.  
 
 [AI Media Control](https://github.com/orgs/CHI-CityTech/teams/ai_media-control)  
-Using AI in realtime to collaborate on design and media delivery.  
+Using AI in realtime to collaborate on design and media delivery.  This semester, we look to inject AI into real-time decision making processes, by selecting images from a dataset based on text or spoken input from the stage and its environments. 
 
 [CHIIDS-Website](https://github.com/orgs/CHI-CityTech/teams/chiids-website)  
-Public facing and brand development
+Public facing and brand development.  This semester, we integrate two separate CHI websites by moving one from Google Sites to OpenLab, and another from Google Sites to GItHub Pages.  These test cases will aid us in effecting a more uniform web-based eco-system.  The other initiaticve in this is to design and develop
 
 [QuantumMusic](https://github.com/orgs/CHI-CityTech/teams/quantummusic)  
 Exploring the conversion of Quantum Computing and AI to generate music in specific styles or combinations of styles.  
