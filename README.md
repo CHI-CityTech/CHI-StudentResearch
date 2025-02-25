@@ -71,8 +71,6 @@ Anthony Navarro - Projection and textile testing for SeaChange360.
 
 Edward Gonzalez - AI-Driven Media Control for QLab Using Open Sound Control (OSC)
 
-Adam White - TBA
-William Dunayevich - TBA
 
 #### Emerging Scholar
 
@@ -99,3 +97,10 @@ Melissa Demollari - Quantum Music Project
 Houke Gao  - Quantum Music Project  
 Alyssa Burtsev - Quantum Music Project  
 Sunima Danzol - Quantum Music project  
+
+#### TBA
+Adam White - TBA
+William Dunayevich - TBA
+Kristian Rice kristian.rice@mail.citytech.cuny.edu TBA
+Shafique.Khan <Shafique.Khan@mail.citytech.cuny.edu>
+
