@@ -103,4 +103,4 @@ Adam White
 William Dunayevich  
 Kristian Rice kristian.rice@mail.citytech.cuny.edu   
 Shafique.Khan <Shafique.Khan@mail.citytech.cuny.edu>  
-
+Demitri Cameron <DEMITRI.CAMERON40@citytech.cuny.edu>  
