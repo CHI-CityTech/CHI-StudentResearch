@@ -99,8 +99,8 @@ Alyssa Burtsev - Quantum Music Project
 Sunima Danzol - Quantum Music project  
 
 #### TBA
-Adam White - TBA
-William Dunayevich - TBA
-Kristian Rice kristian.rice@mail.citytech.cuny.edu TBA
-Shafique.Khan <Shafique.Khan@mail.citytech.cuny.edu>
+Adam White  
+William Dunayevich  
+Kristian Rice kristian.rice@mail.citytech.cuny.edu   
+Shafique.Khan <Shafique.Khan@mail.citytech.cuny.edu>  
 
