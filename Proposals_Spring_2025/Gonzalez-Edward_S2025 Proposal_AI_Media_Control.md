@@ -2,7 +2,7 @@
 **Intern Name:** Edward Gonzalez  
 **Internship Type:** Research Internship  
 **Total Hours:** **120**  
-**Supervisor:** *TBD*  
+**Supervisor:** Dr. David B Smith  
 **Development Environment:** Python, Visual Studio Code (VSC)  
 **Project Duration:** Spring 2025  
 
