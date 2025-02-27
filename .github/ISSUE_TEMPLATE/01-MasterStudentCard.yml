@@ -1,5 +1,5 @@
 name: "01-Master Student Card"
-description: "A central issue for tracking an individual student's research progress."
+description: "A central issue for managing student's information."
 labels: [master-card, student-profile]
 projects: ["CHI-CityTech/34"]
 assignees: []
@@ -14,14 +14,21 @@ body:
     id: student_name
     attributes:
       label: "🆔 Student Name (GitHub Handle Preferred)"
-      description: "Use your GitHub handle (`@username`) to create a direct profile link."
-      placeholder: "E.g., @janedoe"
+      description: "insert full name"
+      placeholder: "E.g., Jane Doe"
+
+  - type: input
+    id: student_major
+    attributes:
+      label: "🆔 Academic Major"
+      description: "your major or department here"
+      placeholder: "E.g., Computer Systems Technology"
 
   - type: input
     id: github_username
     attributes:
       label: "🐙 GitHub Username"
-      description: "If not using `@username` above, enter your GitHub handle here."
+      description: "Use your GitHub handle (`@username`) to create a direct profile link."
       placeholder: "E.g., janedoe"
 
   - type: input
