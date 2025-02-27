@@ -1,5 +1,5 @@
 name: "01-Master Student Card"
-description: "A central issue for managing student's information."
+description: "A central card for managing student's information."
 labels: [master-card, student-profile]
 projects: ["CHI-CityTech/34"]
 assignees: []
@@ -14,42 +14,49 @@ body:
     id: student_name
     attributes:
       label: "🆔 Student Name (GitHub Handle Preferred)"
-      description: "insert full name"
+      description: "Insert full name"
       placeholder: "E.g., Jane Doe"
+      required: true
 
   - type: input
     id: student_major
     attributes:
       label: "🆔 Academic Major"
-      description: "your major or department here"
+      description: "Your major or department here"
       placeholder: "E.g., Computer Systems Technology"
+      required: true
 
   - type: input
     id: github_username
     attributes:
       label: "🐙 GitHub Username"
-      description: "Use your GitHub handle (`@username`) to create a direct profile link."
+      description: "Use your GitHub handle (@username) to create a direct profile link."
       placeholder: "E.g., @janedoe"
+      required: true
 
   - type: input
     id: zotero_username
     attributes:
-      label: "🐙 Zotero Username"
+      label: "📚 Zotero Username"
       description: "Enter your Zotero user name here."
       placeholder: "E.g., janedoe"
-      
+      required: true
+
   - type: input
     id: discord_username
     attributes:
-      label: "🐙 Discord Username"
+      label: "💬 Discord Username"
       description: "Enter your Discord user name here."
       placeholder: "E.g., janedoe"
+      required: true
+
   - type: input
     id: project_repo
     attributes:
       label: "📂 Project Repository"
       description: "Provide the GitHub repository link for your project."
       placeholder: "E.g., https://github.com/YOUR_ORG/YOUR_PROJECT"
+      required: true
 
   - type: input
     id: project_board
@@ -57,6 +64,7 @@ body:
       label: "📌 GitHub Project Board"
       description: "Provide the link to your GitHub Project Board for tracking tasks."
       placeholder: "E.g., https://github.com/orgs/YOUR_ORG/projects/XX"
+      required: true
 
   - type: textarea
     id: research_focus
@@ -64,6 +72,7 @@ body:
       label: "🔍 Research Focus"
       description: "Describe the key research area you are working on."
       placeholder: "E.g., Blended Reality Performance Systems and AI collaboration"
+      required: true
 
   - type: textarea
     id: weekly_checkins
@@ -71,12 +80,14 @@ body:
       label: "📆 Weekly Check-ins"
       description: "This section will be automatically updated as new Weekly Check-ins are submitted."
       value: "No check-ins yet."
+      required: true
 
   - type: textarea
     id: notes
     attributes:
       label: "📝 Additional Notes"
       description: "Any extra details, challenges, or feedback regarding this research."
+      required: true
 
   - type: checkboxes
     id: final_check
