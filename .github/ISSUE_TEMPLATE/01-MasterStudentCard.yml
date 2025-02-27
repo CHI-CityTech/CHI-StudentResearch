@@ -29,7 +29,7 @@ body:
     attributes:
       label: "🐙 GitHub Username"
       description: "Use your GitHub handle (`@username`) to create a direct profile link."
-      placeholder: "E.g., janedoe"
+      placeholder: "E.g., @janedoe"
 
   - type: input
     id: zotero_username
