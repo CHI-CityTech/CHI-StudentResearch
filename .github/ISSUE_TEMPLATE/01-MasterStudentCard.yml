@@ -88,17 +88,13 @@ body:
       label: "📆 Weekly Check-ins"
       description: "This section will be automatically updated as new Weekly Check-ins are submitted."
       value: "No check-ins yet."
-    validations:
-      required: true
 
   - type: textarea
     id: notes
     attributes:
       label: "📝 Additional Notes"
       description: "Any extra details, challenges, or feedback regarding this research."
-    validations:
-      required: true
-
+ 
   - type: checkboxes
     id: final_check
     attributes:
