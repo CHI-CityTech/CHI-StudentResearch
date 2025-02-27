@@ -1,5 +1,5 @@
 name: "01-Master Student Card"
-description: "A central card for managing student's information."
+description: "A central issue for managing student's information."
 labels: [master-card, student-profile]
 projects: ["CHI-CityTech/34"]
 assignees: []
@@ -16,6 +16,7 @@ body:
       label: "🆔 Student Name (GitHub Handle Preferred)"
       description: "Insert full name"
       placeholder: "E.g., Jane Doe"
+    validations:
       required: true
 
   - type: input
@@ -24,6 +25,7 @@ body:
       label: "🆔 Academic Major"
       description: "Your major or department here"
       placeholder: "E.g., Computer Systems Technology"
+    validations:
       required: true
 
   - type: input
@@ -32,22 +34,25 @@ body:
       label: "🐙 GitHub Username"
       description: "Use your GitHub handle (@username) to create a direct profile link."
       placeholder: "E.g., @janedoe"
+    validations:
       required: true
 
   - type: input
     id: zotero_username
     attributes:
       label: "📚 Zotero Username"
-      description: "Enter your Zotero user name here."
+      description: "Enter your Zotero username here."
       placeholder: "E.g., janedoe"
+    validations:
       required: true
 
   - type: input
     id: discord_username
     attributes:
       label: "💬 Discord Username"
-      description: "Enter your Discord user name here."
+      description: "Enter your Discord username here."
       placeholder: "E.g., janedoe"
+    validations:
       required: true
 
   - type: input
@@ -56,6 +61,7 @@ body:
       label: "📂 Project Repository"
       description: "Provide the GitHub repository link for your project."
       placeholder: "E.g., https://github.com/YOUR_ORG/YOUR_PROJECT"
+    validations:
       required: true
 
   - type: input
@@ -64,6 +70,7 @@ body:
       label: "📌 GitHub Project Board"
       description: "Provide the link to your GitHub Project Board for tracking tasks."
       placeholder: "E.g., https://github.com/orgs/YOUR_ORG/projects/XX"
+    validations:
       required: true
 
   - type: textarea
@@ -72,6 +79,7 @@ body:
       label: "🔍 Research Focus"
       description: "Describe the key research area you are working on."
       placeholder: "E.g., Blended Reality Performance Systems and AI collaboration"
+    validations:
       required: true
 
   - type: textarea
@@ -80,6 +88,7 @@ body:
       label: "📆 Weekly Check-ins"
       description: "This section will be automatically updated as new Weekly Check-ins are submitted."
       value: "No check-ins yet."
+    validations:
       required: true
 
   - type: textarea
@@ -87,6 +96,7 @@ body:
     attributes:
       label: "📝 Additional Notes"
       description: "Any extra details, challenges, or feedback regarding this research."
+    validations:
       required: true
 
   - type: checkboxes
