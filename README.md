@@ -15,7 +15,7 @@ Tshari Yancey -  Playwright, puppeteer ("Dalang"), and puppet artisit ("Tukang S
 Crystal Sanchez - Scenic Textile Artist 
 Sam Cheung  -  Visual Design. ("Seni Rupa AI")
 Sam Cheung - Physical Puppetry design ("Perancang Wayang Teknologi"), puppeteer ("Dalang")
-Anthony Navarro - AV Designer,  
+Anthony Navarro - AV Designer   
 Osakpolor Noyiagbon - Composer ("Wiyaga").
 Edward Gonzalez - AI Control programmer  
 Ben Watson - Technical Design for mechanical puppets.
@@ -64,7 +64,11 @@ Mukhammadali Yuldoshev
 [**AI-Driven Swarming for Autonomous Vehicles in Performance Environments**](#)  
 Working with multiple AV, and using GAI to control multiple synchronized units within performance environment.  
 
-Shafique Khan  
+Shafique.Khan <Shafique.Khan@mail.citytech.cuny.edu>  
+
+[**Lumbra: A Game of Shadow and Light**](#)
+
+Cordell Lane  
 
 #### Internships
 
@@ -127,6 +131,7 @@ Mukhammadali Yuldoshev
 Adam White  
 William Dunayevich  
 Kristian Rice kristian.rice@mail.citytech.cuny.edu   
-Shafique.Khan <Shafique.Khan@mail.citytech.cuny.edu>  
 Demitri Cameron <DEMITRI.CAMERON40@citytech.cuny.edu>  
-Sean Chan <seanreignchan@gmail.com>  
+Sean Chan <seanreignchan@gmail.com>  Meeting Friday  
+Kevin Olivares <kevko1202@gmail.com>  Freshman CST
+Joseph.Alonge <Joseph.Alonge@mail.citytech.cuny.edu> CST
