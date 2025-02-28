@@ -4,7 +4,7 @@ Repository for student research proposals and activities across all CHI Meta-pro
 This repository holds proposals, student activities, and links to the associated repositories and deliverables.  It also holds the meta-project management board, that links to other repositories and projects.  
 
 ## Spring 2025  
-#### Research Teans
+#### Research Teams
 
 **CHI-UberTeam**
 
@@ -69,11 +69,9 @@ Shafique.Khan <Shafique.Khan@mail.citytech.cuny.edu>
 [**Integrating personalized LLM's into Balanced Blended Space**](#)  
 Evaluating commercial, open source, and emerging AI platforms and the development of best practice for the creation of smaller, personalized LLM's within the context of the Balanced Blended Space Framework  
 
-Kazi Tasin 
-Kazi Islam 
-Naureen Asha 
-
-
+Kazi Tasin  
+Kazi Islam  
+Naureen Asha  
 
 [**Shadow Puppet World Building**](#)  
 Creating a world lore for a fictive universe based on light and shadow  
