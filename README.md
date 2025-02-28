@@ -11,14 +11,14 @@ This repository holds proposals, student activities, and links to the associated
 [**Blended Shadow Puppet Theatre (BSP) Spring Production**](https://github.com/orgs/CHI-CityTech/teams/bsp-spring-production)  
 The Spring Blended Shadow Puppet Theatre Production, with expanded script, puppets, and technology.  This semester, we integrate front projection, as well as the introduciton of textile-based scenery that blends with projection.  We also extend the script, explore more articulated puppetry, some with machine or mechanism control, compose original music, and engineer a more sophisticated surround sound system.   
 
-Tshari Yancey -  Playwright, puppeteer ("Dalang"), and puppet artisit ("Tukang Sungging")
-Crystal Sanchez - Scenic Textile Artist 
-Sam Cheung  -  Visual Design. ("Seni Rupa AI")
-Sam Cheung - Physical Puppetry design ("Perancang Wayang Teknologi"), puppeteer ("Dalang")
+Tshari Yancey -  Playwright, puppeteer ("Dalang"), and puppet artisit ("Tukang Sungging")  
+Crystal Sanchez - Scenic Textile Artist  
+Sam Cheung  -  Visual Design. ("Seni Rupa AI")  
+Sam Cheung - Physical Puppetry design ("Perancang Wayang Teknologi"), puppeteer ("Dalang")  
 Anthony Navarro - AV Designer   
-Osakpolor Noyiagbon - Composer ("Wiyaga").
+Osakpolor Noyiagbon - Composer ("Wiyaga").  
 Edward Gonzalez - AI Control programmer  
-Ben Watson - Technical Design for mechanical puppets.
+Ben Watson - Technical Design for mechanical puppets.  
 
 Faculty 
 
@@ -41,7 +41,7 @@ Kazi Islam - Realtime Collaborative AI for Shadow Puppet
 [**CHIIDS-Website**](https://github.com/orgs/CHI-CityTech/teams/chiids-website)  
 Public facing and brand development.  This semester, we integrate two separate CHI websites by moving one from Google Sites to OpenLab, and another from Google Sites to GItHub Pages.  These test cases will aid us in effecting a more uniform web-based eco-system.  The other initiaticve in this is to design and develop
 
-Kevin Pintado - Website creation and migration CHIIDS. 
+Kevin Pintado - Website creation and migration CHIIDS.  
 Alexandra Tourkova - CHI and Metaproject Logo and branding design.  
 
 [**QuantumMusic**](https://github.com/orgs/CHI-CityTech/teams/quantummusic)  
@@ -57,17 +57,34 @@ Sunima Danzol - Quantum Music project
 [**Machine Control of BSP Puppetry**](#)
 Developing an automated system for controlling Javanese shadow puppets using AI  
 
-Kristian Rice 
-Yinson Tso
-Mukhammadali Yuldoshev 
+Kristian Rice  
+Yinson Tso  
+Mukhammadali Yuldoshev  
 
 [**AI-Driven Swarming for Autonomous Vehicles in Performance Environments**](#)  
 Working with multiple AV, and using GAI to control multiple synchronized units within performance environment.  
 
 Shafique.Khan <Shafique.Khan@mail.citytech.cuny.edu>  
 
-[**Lumbra: A Game of Shadow and Light**](#)
+[**Integrating personalized LLM's into Balanced Blended Space**](#)  
+Evaluating commercial, open source, and emerging AI platforms and the development of best practice for the creation of smaller, personalized LLM's within the context of the Balanced Blended Space Framework  
 
+Kazi Tasin 
+Kazi Islam 
+Naureen Asha 
+
+
+
+[**Shadow Puppet World Building**](#)  
+Creating a world lore for a fictive universe based on light and shadow  
+
+Sam Cheung  
+Tshari Yancey  
+John Powers  
+
+
+[**Lumbra: A Game of Shadow and Light**](#)
+Building a 
 Cordell Lane  
 
 #### Internships
