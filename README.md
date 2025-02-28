@@ -8,7 +8,7 @@ This repository holds proposals, student activities, and links to the associated
 
 **CHI-UberTeam**
 
-[Blended Shadow Puppet Theatre (BSP) Spring Production](https://github.com/orgs/CHI-CityTech/teams/bsp-spring-production)  
+[**Blended Shadow Puppet Theatre (BSP) Spring Production**](https://github.com/orgs/CHI-CityTech/teams/bsp-spring-production)  
 The Spring Blended Shadow Puppet Theatre Production, with expanded script, puppets, and technology.  This semester, we integrate front projection, as well as the introduciton of textile-based scenery that blends with projection.  We also extend the script, explore more articulated puppetry, some with machine or mechanism control, compose original music, and engineer a more sophisticated surround sound system.   
 
 Tshari Yancey -  Playwright, puppeteer ("Dalang"), and puppet artisit ("Tukang Sungging")
@@ -35,7 +35,7 @@ Hugo Sanchez - Virtual Asset importing and document.
 [**AI Media Control**](https://github.com/orgs/CHI-CityTech/teams/ai_media-control)  
 Using AI in realtime to collaborate on design and media delivery.  This semester, we look to inject AI into real-time decision making processes, by selecting images from a dataset based on text or spoken input from the stage and its environments. 
 
-Edward Gonzalez - AI-Driven Media Control for QLab Using Open Sound Control (OSC)
+Edward Gonzalez - AI-Driven Media Control for QLab Using Open Sound Control (OSC)  
 Kazi Islam - Realtime Collaborative AI for Shadow Puppet
 
 [**CHIIDS-Website**](https://github.com/orgs/CHI-CityTech/teams/chiids-website)  
@@ -53,6 +53,18 @@ Melissa Demollari - Quantum Music Project
 Houke Gao  - Quantum Music Project  
 Alyssa Burtsev - Quantum Music Project  
 Sunima Danzol - Quantum Music project  
+
+[**Machine Control of BSP Puppetry**](#)
+Developing an automated system for controlling Javanese shadow puppets using AI  
+
+Kristian Rice 
+Yinson Tso
+Mukhammadali Yuldoshev 
+
+[**AI-Driven Swarming for Autonomous Vehicles in Performance Environments**](#)  
+Working with multiple AV, and using GAI to control multiple synchronized units within performance environment.  
+
+Shafique Khan  
 
 #### Internships
 
@@ -90,7 +102,9 @@ Reginald Fairly - Interactive physical toy
 
 #### Federal Work Study
 
-Kazi Islam - Realtime Collaborative AI for Shadow Puppet
+Kazi Islam - Realtime Collaborative AI for Shadow Puppet  
+Elizabeth Frias - Quantum Music Project  
+Kazi Tasin - Integrating personalized LLM's within BBS 
 
 #### Quantum Music Project
 Stefanie Rivera  - Quantum Music Project  
@@ -99,6 +113,15 @@ Melissa Demollari - Quantum Music Project
 Houke Gao  - Quantum Music Project  
 Alyssa Burtsev - Quantum Music Project  
 Sunima Danzol - Quantum Music project  
+
+#### Personalized LLMs and AI Integration within BBS 
+Kazi Tasin - CST
+Egypt Paige  
+
+#### Automation of Javanese Shadow Puppets for Machine Control
+Kristian Rice 
+Yinson Tso
+Mukhammadali Yuldoshev 
 
 #### TBA
 Adam White  
