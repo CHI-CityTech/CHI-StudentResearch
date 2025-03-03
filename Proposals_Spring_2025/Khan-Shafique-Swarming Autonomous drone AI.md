@@ -85,6 +85,4 @@ The study will also delve into **hacking and control mechanisms of existing dron
 
 ---
 
-This research will push the boundaries of **autonomous systems**, offering a **framework for ethical control** and **collaborative AI** in drone operations, and testing these capabilities in **dynamic, interactive performance settings**. It also provides an **opportunity to investigate real-world control systems** for drones, a valuable skill for future applications in autonomous and swarm technologies.  
-
-Would you like any further modifications or additional details on specific areas of the project?
+This research will investigate the boundaries of **autonomous systems**, offering a **framework for safe control** and **collaborative AI** in drone operations, and then test these capabilities in **dynamic, interactive performance settings**. It also provides an **opportunity to investigate real-world control systems** for drones, a valuable skill for future applications in autonomous and swarm technologies.  
