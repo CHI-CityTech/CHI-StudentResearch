@@ -7,6 +7,7 @@ This repository holds proposals, student activities, and links to the associated
 #### Research Teams
 
 **CHI-UberTeam**
+All membersof this semester's research belong to the CHI Uber-team.  
 
 [**Blended Shadow Puppet Theatre (BSP) Spring Production**](https://github.com/orgs/CHI-CityTech/teams/bsp-spring-production)  
 The Spring Blended Shadow Puppet Theatre Production, with expanded script, puppets, and technology.  This semester, we integrate front projection, as well as the introduciton of textile-based scenery that blends with projection.  We also extend the script, explore more articulated puppetry, some with machine or mechanism control, compose original music, and engineer a more sophisticated surround sound system.   
@@ -82,7 +83,8 @@ John Powers
 
 
 [**Lumbra: A Game of Shadow and Light**](#)
-Building a 
+Building a chess-like precursor game for the Blended Shadow Puppet Fictive Universe.  
+
 Cordell Lane  
 
 #### Internships
@@ -90,15 +92,15 @@ Cordell Lane
 Crystal Sanchez - (Nazanin Munroe Advisor)  Textile projects for SeaChange360 and Dark Room.  
 Alexandra Tourkova - CHI and Metaproject Logo and branding design.  
 Behlul Vardal - Puppet Play Game  
-Cordell Lane -  Lumbra Game (Finishing Fall 2024 internship)
+Cordell Lane -  Lumbra Game (Finishing Fall 2024 internship)  
 
-Sam Cheung  -  AI collaboration on visual elements for BSP Theatrical Production.
-Sam Cheung - Physical Puppetry manufacture and performance
+Sam Cheung  -  AI collaboration on visual elements for BSP Theatrical Production.  
+Sam Cheung - Physical Puppetry manufacture and performance  
 Tshari Yancey -  BSP Narrative creation and physical puppet creation  
-John Powell - Narrative Development  for Shadow Puppet World. (F 2024?)  
+John Powell - Narrative Development  for Shadow Puppet World.  
 
 Rodrigo Vega - Virtual (Unreal) Shadow Puppet Stage System and Mechanics  
-Hugo Sanchez - Virtual Asset importing and document.  (F2024?)
+Hugo Sanchez - Virtual Asset importing and document.  (F2024?)  
 
 Anthony Navarro - Projection and textile testing for SeaChange360.  (Fall 2024)  
 
@@ -107,7 +109,9 @@ Edward Gonzalez - AI-Driven Media Control for QLab Using Open Sound Control (OSC
 
 #### Emerging Scholar
 
-Ben Watson - Dynamic Physical Dragon Puppet development.
+Ben Watson (MET) - Dynamic Physical Dragon Puppet development: control and fabrication.  
+Kristian Rice (MET) - Automation of Javanese Shadow Puppets using Machine Control  
+Shafique Kahn - AI-Influenced Swarming Algorithms for Autonomous Vehicles in Blended Performance Environments  
 
 #### Culmination Project
 
@@ -135,7 +139,8 @@ Sunima Danzol - Quantum Music project
 
 #### Personalized LLMs and AI Integration within BBS 
 Kazi Tasin - CST
-Egypt Paige  
+Egypt Paige - 
+
 
 #### Automation of Javanese Shadow Puppets for Machine Control
 Kristian Rice 
@@ -145,7 +150,6 @@ Mukhammadali Yuldoshev
 #### TBA
 Adam White  
 William Dunayevich  
-Kristian Rice kristian.rice@mail.citytech.cuny.edu   
 Demitri Cameron <DEMITRI.CAMERON40@citytech.cuny.edu>  
 Sean Chan <seanreignchan@gmail.com>  Meeting Friday  
 Kevin Olivares <kevko1202@gmail.com>  Freshman CST
