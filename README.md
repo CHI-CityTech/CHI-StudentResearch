@@ -87,6 +87,8 @@ Building a chess-like precursor game for the Blended Shadow Puppet Fictive Unive
 
 Cordell Lane  
 
+### Students by collaboration type
+
 #### Internships
 
 Crystal Sanchez - (Nazanin Munroe Advisor)  Textile projects for SeaChange360 and Dark Room.  
@@ -120,7 +122,7 @@ Osakpolor Noyiagbon - Blended Music for Shadow Puppet Theater performance.
 
 #### Independent Studies
 
-Kevin Pintado - Website creation and migration CHIIDS. 
+Kevin Pintado - Website creation and migration CHIIDS.   
 Reginald Fairly - Interactive physical toy
 
 #### Federal Work Study
@@ -129,9 +131,8 @@ Kazi Islam - Realtime Collaborative AI for Shadow Puppet
 Elizabeth Frias - Quantum Music Project  
 Kazi Tasin - Integrating personalized LLM's within BBS 
 
-#### Quantum Music Project
+
 Stefanie Rivera  - Quantum Music Project  
-Elizabeth Frias - Quantum Music Project  
 Melissa Demollari - Quantum Music Project  
 Houke Gao  - Quantum Music Project  
 Alyssa Burtsev - Quantum Music Project  
@@ -140,7 +141,6 @@ Sunima Danzol - Quantum Music project
 #### Personalized LLMs and AI Integration within BBS 
 Kazi Tasin - CST
 Egypt Paige - 
-
 
 #### Automation of Javanese Shadow Puppets for Machine Control
 Kristian Rice 
