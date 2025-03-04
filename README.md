@@ -153,4 +153,4 @@ William Dunayevich
 Demitri Cameron <DEMITRI.CAMERON40@citytech.cuny.edu>  
 Sean Chan <seanreignchan@gmail.com>  Meeting Friday  
 Kevin Olivares <kevko1202@gmail.com>  Freshman CST
-Joseph.Alonge <Joseph.Alonge@mail.citytech.cuny.edu> CST
+Joseph.Alonge <Joseph.Alonge@mail.citytech.cuny.edu> CST - ESP follow up email on 
