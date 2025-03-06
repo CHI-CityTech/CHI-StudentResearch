@@ -1,23 +1,26 @@
 # Scope of Work: Automation of Javanese Shadow Puppets using Machine Control
 
-## Project Title: Automated Control System for Javanese Shadow Puppets and Dynamic Set Manipulation  
+## Project Title: Automated Control System for Javanese Shadow Puppets and Dynamic Set Manipulation
+
 **Students:** Yinson Tso, Kristian Rice, Mukhammadali Yuldoshev, Egypt Paige  
 **Mentor:** David B Smith  
 **Project Type:** ESP Emerging Scholar Project  
 **Discipline:** Mechanical Engineering  
-**Software & Tools:** Autodesk Inventor, 80/20 T-slot Framing Systems, Animatronics, CAD Workflows, AI systems TBA  
+**Software & Tools:** Autodesk Inventor, 80/20 T-slot Framing Systems, Animatronics, CAD Workflows  
 
 ## Objective  
-The primary goal of this project is to develop an automated system for controlling Javanese shadow puppets and set elements using mechanical engineering principles, CAD software, and computational resources. This project will focus on the design, simulation, and prototyping of animatronic mechanisms that allow for precise movement of puppets and dynamic stage components. The final outcome will provide a modular, scalable system that integrates machine control into traditional shadow puppet performances. The project will integrate with the rest of the shadow puppet team and result in mechanisms that will be presented at the performance in the spring on May 8, and exhibited with the rest of the projects. The student will work with the team to convert existing puppets into a mechanism that allows for control.
+The primary goal of this project is to develop an automated system for controlling Javanese shadow puppets and set elements using mechanical engineering principles, CAD software, and computational resources. This project will focus on the design, simulation, and prototyping of animatronic mechanisms that allow for precise movement of puppets and dynamic stage components. The final outcome will provide a modular, scalable system that integrates machine control into traditional shadow puppet performances. The project will integrate with the rest of the shadow puppet team and result in mechanisms that will be presented at the performance in the spring on May 8, and exhibited with the rest of the projects. The student team will work to convert existing puppets into a mechanism that allows for control.
 
 ## Research Tools and Skills  
 Students will employ a range of research tools and skills, including version control and project management platforms such as GitHub for collaborative development and tracking design iterations. They will utilize Autodesk Inventor for parametric modeling, motion analysis, and mechanical simulations, alongside 80/20’s CAD tools for structural design. AI-driven motion replication will be explored using machine learning frameworks and robotic control algorithms. Additional tools include laser cutting and 3D printing for rapid prototyping, stress analysis software for material testing, and real-time control systems for implementing servo and stepper motor actuation. The project will integrate structured documentation methodologies to ensure reproducibility and scalability for future development.
 
 ## Student Contributions  
+Weekly meetings, project updates, and check-ins will be mandatory. Students will collaborate with each other to plan and execute the proposal. The faculty mentor will be present at the weekly meeting to provide feedback and advice. Students should also identify other potential faculty or CLT resources with specialized knowledge relevant to the specific technologies and techniques employed.
+
 The student team will commit a significant amount of time to research, design, prototyping, and testing, ensuring a high-quality outcome. Each member will be responsible for maintaining thorough records of their work, using GitHub for version control and documentation. Preparatory work for meetings with the mentor will include compiling design updates, simulation results, and problem-solving strategies to facilitate productive discussions. Team members will be expected to contribute to project management by setting and tracking milestones, reviewing technical literature, and refining mechanical designs based on mentor feedback and testing results. Regular communication and collaboration with the shadow puppet team will also be essential to ensure seamless integration of the automation system with the broader performance setup.
 
 ## Scope of Work  
-This project will take existing puppet designs, manufactured by other members of the BSP team, and then use these designs to replicate their own, automated versions.  
+This project will take existing puppet designs, manufactured by other members of the BSP team, and then use these designs to replicate their own, automated versions.
 
 ### 1. Research and Concept Development  
 - Study traditional Javanese shadow puppet mechanisms and identify key movement patterns.
