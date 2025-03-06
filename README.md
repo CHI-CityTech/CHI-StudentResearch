@@ -85,7 +85,7 @@ John Powers
 [**Lumbra: A Game of Shadow and Light**](#)
 Building a chess-like precursor game for the Blended Shadow Puppet Fictive Universe.  
 
-Cordell Lane  
+Cordell Lane  primary investigator  
 
 ### Students by collaboration type
 
@@ -113,7 +113,8 @@ Edward Gonzalez - AI-Driven Media Control for QLab Using Open Sound Control (OSC
 
 Ben Watson (MET) - Dynamic Physical Dragon Puppet development: control and fabrication.  
 Kristian Rice (MET) - Automation of Javanese Shadow Puppets using Machine Control  
-Shafique Kahn - AI-Influenced Swarming Algorithms for Autonomous Vehicles in Blended Performance Environments  
+Shafique Kahn - AI-Influenced Swarming Algorithms for Autonomous Vehicles in Blended Performance Environments    
+Demitri Cameron <DEMITRI.CAMERON40@citytech.cuny.edu>  Building blended music between Chinese and Wave.  
 
 #### Culmination Project
 
@@ -150,7 +151,7 @@ Mukhammadali Yuldoshev
 #### TBA
 Adam White  
 William Dunayevich  
-Demitri Cameron <DEMITRI.CAMERON40@citytech.cuny.edu>  
+
 Sean Chan <seanreignchan@gmail.com>  Meeting Friday  
 Kevin Olivares <kevko1202@gmail.com>  Freshman CST
 Joseph.Alonge <Joseph.Alonge@mail.citytech.cuny.edu> CST - ESP follow up email on 
