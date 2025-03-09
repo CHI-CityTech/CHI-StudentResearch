@@ -49,12 +49,17 @@ Public facing and brand development.  This semester, we integrate two separate C
 [**QuantumMusic**](https://github.com/orgs/CHI-CityTech/teams/quantummusic)  
 Exploring the conversion of Quantum Computing and AI to generate music in specific styles or combinations of styles.  
 
-**Stefanie Rivera  
-**Elizabeth Frias  
-**Melissa Demollari  
+**Stefanie Rivera**  
+**Elizabeth Frias**    
+**Melissa Demollari**    
 _Houke Gao_    
 **Alyssa Burtsev**  
 **Sunima Danzol**  
+
+Faculty
+
+Oleg Berman  
+David B. Smith  
 
 [**Machine Control of BSP Puppetry**](#)
 Developing an automated system for controlling Javanese shadow puppets using AI  
@@ -110,7 +115,6 @@ Anthony Navarro - Projection and textile testing for SeaChange360.  (Fall 2024)
 
 Edward Gonzalez - AI-Driven Media Control for QLab Using Open Sound Control (OSC)   
 
-
 #### Emerging Scholar
 
 Ben Watson (MET) - Dynamic Physical Dragon Puppet development: control and fabrication.  
@@ -134,15 +138,9 @@ Reginald Fairly - Interactive physical toy
 
 Kazi Islam - CST - Integrating personalized LLM's within BBS  
 Kazi Tasin - CST - Integrating personalized LLM's within BBS  
-Naureen Asha :: Research Assistant AI Datastructures 
+Naureen Asha :: Research Assistant AI Datastructures  
 
 Elizabeth Frias - Quantum Music Project  
-
-#### Personalized LLMs and AI Integration within BBS 
-Kazi Tasin - CST
-Egypt Paige - 
-
-
 
 #### TBA
 Adam White  
