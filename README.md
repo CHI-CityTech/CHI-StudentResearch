@@ -5,7 +5,7 @@ This repository holds proposals, student activities, and links to the associated
 
 ## Spring 2025  
 #### Research Teams
-
+This section details each CHI team
 **CHI-UberTeam**
 All membersof this semester's research belong to the CHI Uber-team.  
 
@@ -28,7 +28,7 @@ Faculty
 **Nazanin Munroe** - Textile Designer, scenic and costume.      
 **David B. Smith** - Production Manager.    
 
-[**UnReal Environment**](https://github.com/orgs/CHI-CityTech/teams/unreal-environment)  
+[**Blended Shadow Puppet in UnReal Environment**](https://github.com/orgs/CHI-CityTech/teams/unreal-environment)  
 Developing a virtual half of the Blended Shadow Puppet Theatre.  This semester we investigate the way that shadows and light sources combine within the UnReal Environment, and then we work to import equivalent assets used in the physical production.  This sets the stage for future ibtefgrations between physical and virtual environments.  
 
 **Rodrigo Vega** - Virtual (Unreal) Shadow Puppet Stage System and Mechanics.  
