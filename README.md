@@ -133,7 +133,7 @@ Reginald Fairly - Interactive physical toy
 #### Federal Work Study
 
 Kazi Islam - CST - Integrating personalized LLM's within BBS  
-Kazi Tasin - CST - Integrating personalized LLM's within BBS 
+Kazi Tasin - CST - Integrating personalized LLM's within BBS  
 Naureen Asha :: Research Assistant AI Datastructures 
 
 Elizabeth Frias - Quantum Music Project  
