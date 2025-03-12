@@ -3,9 +3,12 @@ Repository for student research proposals and activities across all CHI Meta-pro
 
 This repository holds proposals, student activities, and links to the associated repositories and deliverables.  It also holds the meta-project management board, that links to other repositories and projects.  
 
+All CHI researchers will need to onboard, and gain access to the different resources we will be using.  Here is a [link to the onboarding document](#).  
+
 ## Spring 2025  
 #### Research Teams
-This section details each CHI team
+This section details each CHI team and their research focus.  
+
 **CHI-UberTeam**
 All membersof this semester's research belong to the CHI Uber-team.  
 
