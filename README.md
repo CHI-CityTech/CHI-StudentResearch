@@ -62,7 +62,12 @@ _Houke Gao_
 Faculty
 
 Oleg Berman  
-David B. Smith  
+David B. Smith
+
+[**Puppet Play**](https://github.com/CHI-CityTech/StudentResearch/blob/main/Proposals_Spring_2025/Vardal-Behlul-Internship-Spring_2025-Puppet_Play.md)  
+Development of AI facial puppet mimicry and dynamic perspective tools.  
+
+**Behlul Vardal**
 
 [**Machine Control of BSP Puppetry**](#)
 Developing an automated system for controlling Javanese shadow puppets using AI  
@@ -83,7 +88,7 @@ Evaluating commercial, open source, and emerging AI platforms and the developmen
 **Kazi Islam**  
 **Naureen Asha**    
 
-[**Shadow Puppet World Building**](#)  
+[**Shadow Puppet World Building**](https://www.worldanvil.com/w/testlantia-drdbsmith)  
 Creating a world lore for a fictive universe based on light and shadow  
 
 **Sam Cheung**    
@@ -115,8 +120,8 @@ Rodrigo Vega - Virtual (Unreal) Shadow Puppet Stage System and Mechanics
 Hugo Sanchez - Virtual Asset importing and document.  (F2024?)  
 
 Anthony Navarro - Projection and textile testing for SeaChange360.  (Fall 2024)  
+Edward Gonzalez - AI-Driven Media Control for QLab Using Open Sound Control (OSC)  
 
-Edward Gonzalez - AI-Driven Media Control for QLab Using Open Sound Control (OSC)   
 
 #### Emerging Scholar
 
@@ -141,7 +146,7 @@ Reginald Fairly - Interactive physical toy
 
 Kazi Islam - CST - Integrating personalized LLM's within BBS  
 Kazi Tasin - CST - Integrating personalized LLM's within BBS  
-Naureen Asha :: Research Assistant AI Datastructures  
+Naureen Asha - CST - Integrating personalized LLM's within BBS  
 
 Elizabeth Frias - Quantum Music Project  
 
