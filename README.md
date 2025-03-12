@@ -3,7 +3,7 @@ Repository for student research proposals and activities across all CHI Meta-pro
 
 This repository holds proposals, student activities, and links to the associated repositories and deliverables.  It also holds the meta-project management board, that links to other repositories and projects.  
 
-All CHI researchers will need to onboard, and gain access to the different resources we will be using.  Here is a [link to the onboarding document](#).  
+All CHI researchers will need to onboard, and gain access to the different resources we will be using.  Here is a [link to the onboarding document](https://github.com/CHI-CityTech/StudentResearch/wiki/CHI%E2%80%90Researcher-Onboarding.md).  
 
 ## Spring 2025  
 #### Research Teams
