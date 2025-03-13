@@ -69,7 +69,7 @@ Development of AI facial puppet mimicry and dynamic perspective tools.
 
 **Behlul Vardal**
 
-[**Machine Control of BSP Puppetry**](#)
+[**AI Machine Control of BSP Puppetry**](#)
 Developing an automated system for controlling Javanese shadow puppets using AI  
 
 **Kristian Rice**  
