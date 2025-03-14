@@ -92,13 +92,20 @@ Evaluating commercial, open source, and emerging AI platforms and the developmen
 Creating a world lore for a fictive universe based on light and shadow  
 
 **Sam Cheung**    
-**Tshari Yancey**   
+**Tshari Yancey**     
 **John Powers**  
 
 [**Lumbra: A Game of Shadow and Light**](#)
 Building a chess-like precursor game for the Blended Shadow Puppet Fictive Universe.  
 
 **Cordell Lane**  primary investigator  
+
+[**Blended Music**](#)  
+Creating new musical styles based on the integration of different cultural traditions.  
+
+**Osakpolor Noyiagbon** - Javanese Gamelan and Yoruban.
+**Adam White** - Japanese Musical tradition (TBA) 
+**
 
 ---
 
@@ -131,6 +138,7 @@ Demitri Cameron <DEMITRI.CAMERON40@citytech.cuny.edu>  Building blended music be
 Kristian Rice (MET) - Automation of Javanese Shadow Puppets using Machine Control  
 Yinson Tso  - Automation of Javanese Shadow Puppets using Machine Control  
 Mukhammadali Yuldoshev  - Automation of Javanese Shadow Puppets using Machine Control  
+Sean Chan <seanreignchan@gmail.com>  Immersive sound for Blended Shadow Puppet performance   
 
 #### Culmination Project
 
@@ -151,9 +159,8 @@ Naureen Asha - CST - Integrating personalized LLM's within BBS
 Elizabeth Frias - Quantum Music Project  
 
 #### TBA
-Adam White  
+
 William Dunayevich  
-Sean Chan <seanreignchan@gmail.com>  Meeting Friday  
 Kevin Olivares <kevko1202@gmail.com>  Freshman CST    
 Joseph.Alonge <Joseph.Alonge@mail.citytech.cuny.edu> CST - ESP follow up email on  
 
