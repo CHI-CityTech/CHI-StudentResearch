@@ -91,9 +91,9 @@ Evaluating commercial, open source, and emerging AI platforms and the developmen
 [**Shadow Puppet World Building**](https://www.worldanvil.com/w/testlantia-drdbsmith)  
 Creating a world lore for a fictive universe based on light and shadow  
 
-**Sam Cheung**    
-**Tshari Yancey**     
 **John Powers**  
+**Sam Cheung**    
+**Tshari Yancey**       
 
 [**Lumbra: A Game of Shadow and Light**](#)
 Building a chess-like precursor game for the Blended Shadow Puppet Fictive Universe.  
@@ -129,7 +129,6 @@ Hugo Sanchez - Virtual Asset importing and document.  (F2024?)
 Anthony Navarro - Projection and textile testing for SeaChange360.  (Fall 2024)  
 Edward Gonzalez - AI-Driven Media Control for QLab Using Open Sound Control (OSC)  
 
-
 #### Emerging Scholar
 
 Ben Watson (MET) - Dynamic Physical Dragon Puppet development: control and fabrication.  
@@ -162,5 +161,5 @@ Elizabeth Frias - Quantum Music Project
 
 William Dunayevich  
 Kevin Olivares <kevko1202@gmail.com>  Freshman CST    
-Joseph.Alonge <Joseph.Alonge@mail.citytech.cuny.edu> CST - ESP follow up email on  
-
+Joseph.Alonge <Joseph.Alonge@mail.citytech.cuny.edu> CST - meetingin weekend or soon  
+Juliann Campbell <Juliann.Campbell@mail.citytech.cuny.edu> - Internship Video?  
