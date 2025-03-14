@@ -56,7 +56,6 @@ Exploring the conversion of Quantum Computing and AI to generate music in specif
 **Stefanie Rivera**  
 **Elizabeth Frias**    
 **Melissa Demollari**    
-_Houke Gao_    
 **Alyssa Burtsev**  
 **Sunima Danzol**  
 
@@ -163,4 +162,8 @@ Elizabeth Frias - Quantum Music Project
 William Dunayevich  
 Kevin Olivares <kevko1202@gmail.com>  Freshman CST    
 Joseph.Alonge <Joseph.Alonge@mail.citytech.cuny.edu> CST - meetingin weekend or soon  
-Juliann Campbell <Juliann.Campbell@mail.citytech.cuny.edu> - Internship Video?  
+Juliann Campbell <Juliann.Campbell@mail.citytech.cuny.edu> - Internship Video? Saturday March 15 meeting to discuss.  
+
+Saliou Dunn 23909618 - Data Science Club, freshman.  
+
+
