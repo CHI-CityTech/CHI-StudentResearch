@@ -161,9 +161,8 @@ Elizabeth Frias - Quantum Music Project
 
 William Dunayevich  
 Kevin Olivares <kevko1202@gmail.com>  Freshman CST    
-Joseph.Alonge <Joseph.Alonge@mail.citytech.cuny.edu> CST - meetingin weekend or soon  
+Joseph.Alonge <Joseph.Alonge@mail.citytech.cuny.edu> CST - meeting weekend March 15
 Juliann Campbell <Juliann.Campbell@mail.citytech.cuny.edu> - Internship Video? Saturday March 15 meeting to discuss.  
-
-Saliou Dunn 23909618 - Data Science Club, freshman.  
+Saliou Dunn 23909618 - Data Science Club, freshman - Meeting March 15  
 
 
