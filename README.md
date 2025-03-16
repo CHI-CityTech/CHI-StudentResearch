@@ -47,7 +47,7 @@ Using AI in realtime to collaborate on design and media delivery.  This semester
 [**CHIIDS-Website**](https://github.com/orgs/CHI-CityTech/teams/chiids-website)  
 Public facing and brand development.  This semester, we integrate two separate CHI websites by moving one from Google Sites to OpenLab, and another from Google Sites to GItHub Pages.  These test cases will aid us in effecting a more uniform web-based eco-system.  The other initiaticve in this is to design and develop
 
-**Kevin Pintado** - Website creation and migration CHIIDS.  
+**Kevin Pintado** - [Website creation and migration (CHIIDS)](https://github.com/CHI-CityTech/StudentResearch/blob/main/Proposals_Spring_2025/Pintado-Kevin-Proposal.md)    
 **Alexandra Tourkova** - CHI and Metaproject Logo and branding design.  
 **Saliou Dunn** - Database Development for CHIIDS and AI LLM's
 **Juliann Campbell** - Documentary video capture and collation of Spring 2025 CHI activities  
@@ -72,17 +72,17 @@ Development of AI facial puppet mimicry and dynamic perspective tools.
 
 **Behlul Vardal**
 
-[**AI Machine Control of BSP Puppetry**](#)
+[**AI Machine Control of BSP Puppetry**](https://github.com/CHI-CityTech/StudentResearch/blob/main/Proposals_Spring_2025/Paige-Rice-Tso-Yuldoshev-Puppet-Set-Automation.md)
 Developing an automated system for controlling Javanese shadow puppets using AI  
 
 **Kristian Rice**  
 **Yinson Tso**  
 **Mukhammadali Yuldoshev**  
 
-[**AI-Driven Swarming for Autonomous Vehicles in Performance Environments**](#)  
-Working with multiple AV, and using GAI to control multiple synchronized units within performance environment.  
+[**AI-Driven Swarming for Autonomous Vehicles in Performance Environments**](#)    
+Working with autonomous vehicles and using GAI to control multiple synchronized units within a performance environment.  
 
-**Shafique.Khan** <Shafique.Khan@mail.citytech.cuny.edu>  
+**Shafique.Khan**
 
 [**Integrating personalized LLM's into Balanced Blended Space**](#)  
 Evaluating commercial, open source, and emerging AI platforms and the development of best practice for the creation of smaller, personalized LLM's within the context of the Balanced Blended Space Framework  
@@ -153,7 +153,6 @@ Osakpolor Noyiagbon - Blended Music for Shadow Puppet Theater performance.
 Kevin Pintado - Website creation and migration CHIIDS.   
 Reginald Fairly - Interactive physical toy
 
-
 #### Federal Work Study
 
 Kazi Islam - CST - Integrating personalized LLM's within BBS  
@@ -166,14 +165,8 @@ Elizabeth Frias - Quantum Music Project
 
 Saliou Dunn 23909618 - Data Science Club, freshman - Meeting March 15  
 
-
-
 #### TBA
 
 William Dunayevich  
 Kevin Olivares <kevko1202@gmail.com>  Freshman CST    
 Joseph.Alonge <Joseph.Alonge@mail.citytech.cuny.edu> CST - meeting weekend March 15
-Juliann Campbell <Juliann.Campbell@mail.citytech.cuny.edu> - Internship Video? Saturday March 15 meeting to discuss.  
-Saliou Dunn 23909618 - Data Science Club, freshman - Meeting March 15  
-
-
