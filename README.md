@@ -49,6 +49,9 @@ Public facing and brand development.  This semester, we integrate two separate C
 
 **Kevin Pintado** - Website creation and migration CHIIDS.  
 **Alexandra Tourkova** - CHI and Metaproject Logo and branding design.  
+**Saliou Dunn** - Database Development for CHIIDS and AI LLM's
+**Juliann Campbell** - Documentary video capture and collation of Spring 2025 CHI activities  
+
 
 [**QuantumMusic**](https://github.com/orgs/CHI-CityTech/teams/quantummusic)  
 Exploring the conversion of Quantum Computing and AI to generate music in specific styles or combinations of styles.  
@@ -125,6 +128,7 @@ John Powell - Narrative Development  for Shadow Puppet World.
 
 Rodrigo Vega - Virtual (Unreal) Shadow Puppet Stage System and Mechanics  
 Hugo Sanchez - Virtual Asset importing and document.  (F2024?)  
+Juliann Campbell - [Documentary video capture and collation of Spring 2025 CHI activities](https://github.com/CHI-CityTech/StudentResearch/blob/main/Proposals_Spring_2025/Dunn-Saliou-DataBase%20Structures%20for%20Large%20Datasets.md)  
 
 Anthony Navarro - Projection and textile testing for SeaChange360.  (Fall 2024)  
 Edward Gonzalez - AI-Driven Media Control for QLab Using Open Sound Control (OSC)  
@@ -149,6 +153,7 @@ Osakpolor Noyiagbon - Blended Music for Shadow Puppet Theater performance.
 Kevin Pintado - Website creation and migration CHIIDS.   
 Reginald Fairly - Interactive physical toy
 
+
 #### Federal Work Study
 
 Kazi Islam - CST - Integrating personalized LLM's within BBS  
@@ -156,6 +161,12 @@ Kazi Tasin - CST - Integrating personalized LLM's within BBS
 Naureen Asha - CST - Integrating personalized LLM's within BBS  
 
 Elizabeth Frias - Quantum Music Project  
+
+#### Voluntary Participation
+
+Saliou Dunn 23909618 - Data Science Club, freshman - Meeting March 15  
+
+
 
 #### TBA
 
