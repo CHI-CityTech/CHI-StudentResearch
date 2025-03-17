@@ -18,8 +18,7 @@ The Spring Blended Shadow Puppet Theatre Production, with expanded script, puppe
 
 **Tshari Yancey** -  Playwright, puppeteer ("Dalang"), and puppet artisit ("Tukang Sungging")  
 **Crystal Sanchez** - Scenic Textile Artist  
-**Sam Cheung**  -  Visual Design. ("Seni Rupa AI")  
-Sam Cheung - Physical Puppetry design ("Perancang Wayang Teknologi"), puppeteer ("Dalang")  
+**Sam Cheung**  -  Visual Design,  ("Seni Rupa AI") - Physical Puppetry design ("Perancang Wayang Teknologi"), puppeteer ("Dalang"), archiving and documentation    
 **Anthony Navarro** - Audio/Visual System Designer   
 **Osakpolor Noyiagbon** - Composer ("Wiyaga").  
 **Edward Gonzalez** - AI Control programmer  
