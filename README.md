@@ -120,16 +120,16 @@ Crystal Sanchez - (Nazanin Munroe Advisor)  Textile projects for SeaChange360 an
 Alexandra Tourkova - CHI and Metaproject Logo and branding design.  
 Behlul Vardal - Puppet Play Game  
 Cordell Lane -  Lumbra Game (Finishing Fall 2024 internship)  
-Daniel Irala - Documentary Post Production editing of Spring 2025 CHI Activities.  
 
 Sam Cheung  -  AI collaboration on visual elements for BSP Theatrical Production.
 Sam Cheung - Physical Puppetry manufacture and performance  
 Tshari Yancey -  BSP Narrative creation and physical puppet creation  
-John Powell - Narrative Development  for Shadow Puppet World.  
+John Powell - Narrative Development, puppeteer,  for Shadow Puppet World.  
 
 Rodrigo Vega - Virtual (Unreal) Shadow Puppet Stage System and Mechanics  
 Hugo Sanchez - Virtual Asset importing and document.  (F2024?)  
 Juliann Campbell - [Documentary video capture and collation of Spring 2025 CHI activities](https://github.com/CHI-CityTech/StudentResearch/blob/main/Proposals_Spring_2025/Dunn-Saliou-DataBase%20Structures%20for%20Large%20Datasets.md)  
+Daniel Irala - Documentary Post Production editing of Spring 2025 CHI Activities.  
 
 Anthony Navarro - Projection and textile testing for SeaChange360.  (Fall 2024)  
 Edward Gonzalez - AI-Driven Media Control for QLab Using Open Sound Control (OSC)  
