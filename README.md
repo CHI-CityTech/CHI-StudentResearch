@@ -48,8 +48,9 @@ Public facing and brand development.  This semester, we integrate two separate C
 
 **Kevin Pintado** - [Website creation and migration (CHIIDS)](https://github.com/CHI-CityTech/StudentResearch/blob/main/Proposals_Spring_2025/Pintado-Kevin-Proposal.md)    
 **Alexandra Tourkova** - CHI and Metaproject Logo and branding design.  
-**Saliou Dunn** - Database Development for CHIIDS and AI LLM's
+**Saliou Dunn** - Database Development for CHIIDS and AI LLM's  
 **Juliann Campbell** - Documentary video capture and collation of Spring 2025 CHI activities  
+**Daniel Irala** - Documentary Post Production editing of Spring 2025 CHI Activities.  
 
 
 [**QuantumMusic**](https://github.com/orgs/CHI-CityTech/teams/quantummusic)  
@@ -119,8 +120,9 @@ Crystal Sanchez - (Nazanin Munroe Advisor)  Textile projects for SeaChange360 an
 Alexandra Tourkova - CHI and Metaproject Logo and branding design.  
 Behlul Vardal - Puppet Play Game  
 Cordell Lane -  Lumbra Game (Finishing Fall 2024 internship)  
+Daniel Irala - Documentary Post Production editing of Spring 2025 CHI Activities.  
 
-Sam Cheung  -  AI collaboration on visual elements for BSP Theatrical Production.  (Fall 2024)
+Sam Cheung  -  AI collaboration on visual elements for BSP Theatrical Production.
 Sam Cheung - Physical Puppetry manufacture and performance  
 Tshari Yancey -  BSP Narrative creation and physical puppet creation  
 John Powell - Narrative Development  for Shadow Puppet World.  
