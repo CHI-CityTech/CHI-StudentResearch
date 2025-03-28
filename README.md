@@ -107,7 +107,7 @@ Building a chess-like precursor game for the Blended Shadow Puppet Fictive Unive
 Creating new musical styles based on the integration of different cultural traditions.  
 
 **Osakpolor Noyiagbon** - Javanese Gamelan and Yoruban.  
-**Adam White** - Japanese Musical tradition (TBA) and ?.    
+**Eric White** - Japanese Musical tradition (TBA) and ?.    
 **Demitri Cameron** - Chinese musical tradition (TBA) and "Wave".   
 
 ---
