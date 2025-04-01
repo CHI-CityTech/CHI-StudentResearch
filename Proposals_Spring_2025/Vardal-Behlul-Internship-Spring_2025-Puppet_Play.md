@@ -8,7 +8,7 @@
 
 ## 0. Introduction (2025-01-31)
 
-This proposal is a tentative draft, aiming to further roll out the project ideas as represented in Mr. Vardal's draft proposal as presented in [this proposal document](https://docs.google.com/document/d/1Jk3jePsfXePXplEfK4QRrBrpC35RKUXlmCGC1g-vIng/edit?usp=sharing).  After a one hour brainstorming session on January 31, 2025 with Dr. David B. Smith, further refinements were suggested.  This document must be further vetted by Mr. Vardal to ensure that it fits into his own expectations.  An important part of this project will also be to connect it with other CHI initiatives, such as Blended Shadow Puppet, Blended Reality Performance System, and others.  
+This proposal is a draft, aiming to further roll out the project ideas as represented in Mr. Vardal's draft proposal as presented in [this proposal document](https://docs.google.com/document/d/1Jk3jePsfXePXplEfK4QRrBrpC35RKUXlmCGC1g-vIng/edit?usp=sharing).  After a one hour brainstorming session on January 31, 2025 with Dr. David B. Smith, further refinements were suggested.  This document must be further vetted by Mr. Vardal to ensure that it fits into his own expectations.  An important part of this project will also be to connect it with other CHI initiatives, such as Blended Shadow Puppet, Blended Reality Performance System, and others.  
 
 ## Statement of Work (SoW)
 
