@@ -3,31 +3,45 @@
 ## Student
 **Name:** Isha Saline  
 **Major:** Computer Systems Technology (CST)  
-**Internship Term:** [Insert Semester]  
-**Advisor/Faculty Supervisor:** [Insert Supervisor Name]
+**Internship Term:** Summer/FALL 2025  
+**Advisor/Faculty Supervisor:** Dr. David B. Smith
 
 ---
 
 # I. Project Overview
-This project initiates an investigation into **Collaborative AI Teams**, focusing not only on how humans interact with multiple AI agents, but critically on how **AI agents might interact directly with each other**.
 
-Isha’s research will **lay the groundwork** for an evolving **meta-project** under the broader umbrella of the **Balanced Blended Space (BBS)** initiatives, supporting future expansions into **AI orchestration models**, **distributed intelligence**, and **human-AI co-creation ecosystems**.
+In most existing models of AI collaboration, the structure is relatively simple: **one human interacts with one AI agent** to accomplish a task. Occasionally, a single human may interact with several AIs, but these interactions are typically independent, with the human acting as a central coordinator.
 
----
+This project proposes a more ambitious and holistic model: the study of **blended collaborative teams** — groups composed of **multiple humans and multiple AI agents**, where communication is **distributed across all members** rather than funneled through a single human.
+
+In a true blended team, collaboration is not limited to human-to-AI interactions; rather, it encompasses **human-human**, **AI-human**, and critically, **AI-AI communication pathways**.  
+Each team is thus understood as an **aggregate of individual communication connections**, with the number of potential relationships growing exponentially according to:
+
+$$
+\text{Relationships} = \frac{n(n-1)}{2}
+$$
+
+where \( n \) is the total number of team members, human and AI alike.
+
+Understanding how teams function requires evaluating these individual communication vectors — not simply the aggregation of outputs.  
+Consequently, we aim to explore and model how **AI agents collaborate and communicate directly with one another**, alongside humans, within a shared team structure.
+
+This project **intentionally avoids** traditional "hub-and-spoke" models where a human centrally directs or collates outputs from passive AI tools. Instead, we seek to enable and study **peer-to-peer collaboration dynamics**, fostering emergent team behaviors.
+
+Isha’s research will lay the groundwork for an evolving **meta-project** under the broader umbrella of the **Balanced Blended Space (BBS)** initiatives, supporting future expansions into **AI orchestration models**, **distributed intelligence frameworks**, and **human-AI co-creation ecosystems**.
 
 # II. Project Rationale
-Traditional uses of AI are based on **hub-and-spoke** models, where a human collaborates with individual AI agents separately. However, true **team collaboration** — as seen in human groups — involves **direct peer-to-peer communication** among members.
 
-By recognizing that a collaborative team grows in complexity according to the relationship formula:
+The expansion of AI collaboration models beyond traditional hub-and-spoke architectures is critical for realizing the deeper ambitions of the Balanced Blended Space (BBS) framework.  
 
-\[
-\frac{n(n-1)}{2}
-\]
+BBS emphasizes not merely the blending of physical and virtual spaces, but the **integration of diverse agents** — human and AI — into dynamic, adaptive, and richly interconnected systems.
 
-this project foregrounds a **critical insight**:  
-**Real AI teamwork requires internal communication, negotiation, critique, and synthesis among AI agents themselves.**
+By focusing on **distributed communication** within blended teams, this project advances the conceptual foundation necessary for:
+- Designing future **AI orchestration frameworks**.
+- Establishing **ethical models** for accountability within AI collectives.
+- Enabling **emergent creativity** from multi-agent interactions.
 
-Exploring and prototyping these internal dynamics is crucial for building the next generation of **Collaborative AI Systems**.
+This work initiates a research pathway toward truly collaborative, non-hierarchical human-AI ecosystems, aligned with the long-term vision of BBS.
 
 ---
 
