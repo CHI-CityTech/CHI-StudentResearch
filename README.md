@@ -60,7 +60,7 @@ Exploring the conversion of Quantum Computing and AI to generate music in specif
 **Elizabeth Frias**    
 **Melissa Demollari**    
 **Alyssa Burtsev**  
-**Sunima Danzol**  
+**Sunima Dangol**  
 
 Faculty
 
@@ -165,6 +165,7 @@ Elizabeth Frias - Quantum Music Project
 #### Voluntary Participation
 
 Saliou Dunn 23909618 - Data Science Club, freshman - Meeting March 15  
+sunima Dangol - Data Science student from Caldwell University
 
 #### TBA
 
