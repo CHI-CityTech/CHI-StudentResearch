@@ -131,6 +131,8 @@ Hugo Sanchez - Virtual Asset importing and document.  (F2024?)
 Juliann Campbell - [Documentary video capture and collation of Spring 2025 CHI activities](https://github.com/CHI-CityTech/StudentResearch/blob/main/Proposals_Spring_2025/Dunn-Saliou-DataBase%20Structures%20for%20Large%20Datasets.md)  
 Daniel Irala - Documentary Post Production editing of Spring 2025 CHI Activities.  
 
+Osakpolor Noyiagbon - Blended Music for Shadow Puppet Theater performance.
+
 Anthony Navarro - Projection and textile testing for SeaChange360.  (Fall 2024)  
 Edward Gonzalez - AI-Driven Media Control for QLab Using Open Sound Control (OSC)  
 
@@ -147,7 +149,6 @@ Sean Chan <seanreignchan@gmail.com>  Immersive sound for Blended Shadow Puppet p
 #### Culmination Project
 
 Anthony Navarro - AV Technologist and Designer for Blended Shadow Puppet Theatre.  
-Osakpolor Noyiagbon - Blended Music for Shadow Puppet Theater performance.
 
 #### Independent Studies
 
