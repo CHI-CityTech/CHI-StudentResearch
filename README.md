@@ -123,7 +123,6 @@ Cordell Lane -  Lumbra Game (Finishing Fall 2024 internship)
 
 Sam Cheung  -  AI collaboration on visual elements for BSP Theatrical Production.
 Sam Cheung - Physical Puppetry manufacture and performance  
-Tshari Yancey -  BSP Narrative creation and physical puppet creation  
 John Powell - Narrative Development, puppeteer,  for Shadow Puppet World.  
 
 Rodrigo Vega - Virtual (Unreal) Shadow Puppet Stage System and Mechanics  
@@ -165,8 +164,9 @@ Elizabeth Frias - Quantum Music Project
 
 #### Voluntary Participation
 
+Tshari Yancey -  BSP Narrative creation and physical puppet creation  
 Saliou Dunn 23909618 - Data Science Club, freshman - Meeting March 15  
-sunima Dangol - Data Science student from Caldwell University
+Sunima Dangol - Data Science student from Caldwell University
 
 #### TBA
 
