@@ -1,4 +1,4 @@
-##**Culmination Project Scope of Work (SoW): Anthony Navarro - Spring 2025**
+## Culmination Project Scope of Work (SoW): Anthony Navarro - Spring 2025**
 
 **NOTE: THIS IS DEPRECATED:  SEE MORE RECENT PROPOSAL [HERE](https://github.com/CHI-CityTech/StudentResearch/blob/main/Proposals_Spring_2025/Navarro%20Culmination%20Spring%202025%20V2.md)**  
 
