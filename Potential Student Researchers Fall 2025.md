@@ -12,6 +12,9 @@ Daniel Cruz Sanchez -
 Sunima Dangol (Quantum Music Project - Caldwell University)  
 Tshari Yancey  (Progenitor)  
 
+## Summer
+Isha Saleem 
+
 
 ## ALUMNI?  
 Sameul Cheung  
