@@ -8,11 +8,15 @@ Kyshia Anderson - Textiles - Intern under Prof Munroe
 Angelica Tellez - Upper Senior, Applied Math graduating end of Fall semester, looking for summer projects.  Met in Person June 3 to continue discussion and provide links.
 Daniel Cruz Sanchez - 
 
+Behlul Vardal: Project Rainy Cloud  
+
 
 ## CONTINUING
 
-Sunima Dangol (Quantum Music Project - Caldwell University)  
+Sunima Dangol (Quantum Music Project - William Patterson University)  
 Tshari Yancey  (Progenitor)  
+Elizabeth Frias Quantum Music Project
+
 
 ## Summer
 Isha Saleem 
