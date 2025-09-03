@@ -10,6 +10,17 @@ Daniel Cruz Sanchez -
 
 Behlul Vardal: Project Rainy Cloud  
 
+Manny Aponte Hidalgo
+- From: Manny.AponteHidalgo <Manny.AponteHidalgo@mail.citytech.cuny.edu>
+- Date: Tuesday, September 2, 2025 at 4:26 PM
+- Subject: Ent 4900 - Internship
+
+Good afternoon, I have looked over the links you shared with me and have come up with a couple of opportunities that interest me. I will list them below in order. I am available to meet tomorrow at 3:00pm. 
+
+- Projection-mapped fashion shows inspired by puppetry narratives
+- Video documentation of AI and human collaboration in BRPS
+- Projection mapping and real-time visual effects integration 
+- Symbolic visual elements for interactive narrative design
 
 ## CONTINUING
 
