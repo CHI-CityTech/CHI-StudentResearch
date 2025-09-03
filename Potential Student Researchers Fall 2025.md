@@ -13,7 +13,25 @@ Daniel Cruz Sanchez -
 
 Behlul Vardal: Project Rainy Cloud  
 
-Manny Aponte Hidalgo
+**Nichole Rabines - INternship ENT student**
+ 
+From: Nicole.Rabines <Nicole.Rabines@mail.citytech.cuny.edu>
+Date: Friday, August 29, 2025 at 6:42 PM
+To: David Smith <DSMITH@CITYTECH.CUNY.EDU>
+Subject: Fall 2025 Internship Oppourtunities
+
+Good afternoon,
+ 
+This semester I decided to take my Internship course credit. I was able to secure an Internship in the beginning of summer at a venue helping the audio specialist set-up for various forms of live entertainment . Sadly, when the semester began the venue was no longer able to accept me as an intern.
+ 
+Now I am searching for a new internship in a hurry and Rennie Brooks told me to email you incase you have any internships available.
+ 
+I am interested in Foley so working with sound and video editing would be most beneficial for my goals ahead. 
+ 
+Please let me know if you have anything for me or any advice for finding internships in my scope.
+
+
+**Manny Aponte Hidalgo**
 - From: Manny.AponteHidalgo <Manny.AponteHidalgo@mail.citytech.cuny.edu>
 - Date: Tuesday, September 2, 2025 at 4:26 PM
 - Subject: Ent 4900 - Internship
