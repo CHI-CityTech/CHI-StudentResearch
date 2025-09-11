@@ -6,6 +6,7 @@ Kyshia Anderson - Textiles - Intern under Prof Munroe
   EcoBrick development - Proposal to comabt textile waste by generating building materials;  
   Email received 2025-07-03  
   Further discussion LateAugust 
+  [Github site](https://github.com/C3l3stialRose/Material-Echoes-Fall-2025)  
   
 Angelica Tellez - Upper Senior, Applied Math graduating end of Fall semester, looking for summer projects.  Met in Person June 3 to continue discussion and provide links.  
 
