@@ -43,6 +43,15 @@ Good afternoon, I have looked over the links you shared with me and have come up
 - Projection mapping and real-time visual effects integration 
 - Symbolic visual elements for interactive narrative design
 
+**Francky.Duperval** <Francky.Duperval@mail.citytech.cuny.edu>
+Date: Friday, September 5, 2025 at 12:21 PM
+
+My name is Francky Duperval and I recently transferred and gotten started in Emerging Media Technology for this semester.
+
+Currently my interest is in experiential media and physical computing and after speaking with professor Berkoy, she recommended I touch base with you and that you were working  with students on an interesting shadow puppet show integrating physical computing and AI.
+<img width="624" height="325" alt="image" src="https://github.com/user-attachments/assets/36ba3633-4d0b-4245-88ac-b193f0bca047" />
+
+
 ## CONTINUING
 
 Sunima Dangol (Quantum Music Project - William Patterson University)  
