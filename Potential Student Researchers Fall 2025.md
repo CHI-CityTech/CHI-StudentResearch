@@ -52,6 +52,23 @@ My name is Francky Duperval and I recently transferred and gotten started in Eme
 Currently my interest is in experiential media and physical computing and after speaking with professor Berkoy, she recommended I touch base with you and that you were working  with students on an interesting shadow puppet show integrating physical computing and AI.
 <img width="624" height="325" alt="image" src="https://github.com/user-attachments/assets/36ba3633-4d0b-4245-88ac-b193f0bca047" />
 
+**Milsy Pena** HCPM
+
+From: Milsy.Pena <Milsy.Pena@mail.citytech.cuny.edu>
+Date: Thursday, September 18, 2025 at 2:27 PM
+To: David Smith <dsmith@citytech.cuny.edu>
+Subject: Research Interest
+
+Good afternoon Professor Smith,
+
+My name is Milsy Pena and I am currently in majoring in Health Policy and Management (Emplid 24001223). After attending the Research Mixer, your program and research topics really piqued my interest. I believe that I could learn a lot from you. If possible I would love to have you as a Research Mentor. I will be honest I have no research experience but I am really interested in AI ethics or AI dependence as well as implicit bias when it comes to criminal justice or health care (honestly other topics too those two were just the ones that caught my eye first). 
+
+Warmest Regards,
+Milsy Pena
+Milsy.Pena@mail.citytech.cuny.edu
+
+
+
 
 ## CONTINUING
 
