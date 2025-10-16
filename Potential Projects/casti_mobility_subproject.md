@@ -1,4 +1,4 @@
-**Title:** CASTI–Mobility Sub-Project: Trust and Mediation in Autonomous Transportation Systems
+# CASTI–Mobility Sub-Project: Trust and Mediation in Autonomous Transportation Systems
 
 ---
 
