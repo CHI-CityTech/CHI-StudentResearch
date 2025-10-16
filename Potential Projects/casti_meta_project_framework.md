@@ -1,4 +1,5 @@
-**Title:** CASTI Meta-Project Framework: Trust, Ethics, and Mediation in Autonomous and Collaborative Systems
+# CHI Autonomous Systems Trust Initiative (CASTI)
+## Meta-Project Framework: Trust, Ethics, and Mediation in Autonomous and Collaborative Systems
 
 ---
 
