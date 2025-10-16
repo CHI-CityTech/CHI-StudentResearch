@@ -1,3 +1,7 @@
+
+# Trust and Transparency in Smart Mobility Systems:  
+## Ethical AI, Cybersecurity, and Mediation in Blended Environments.
+
 **Student Researcher:** Sumiya Jahan
 **Mentor:** Dr. David B. Smith
 **Program:** Federal Work-Study (FWS) / Emerging Scholars Program
