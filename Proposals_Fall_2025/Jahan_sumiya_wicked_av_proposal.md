@@ -6,8 +6,8 @@
 **Mentor:** Dr. David B. Smith
 **Program:** Federal Work-Study (FWS) / Emerging Scholars Program
 
-**Parent Framework:** CASTI–Mobility Sub-Project
-**Meta-Project Context:** CHI Autonomous Systems Trust Meta-Project (CASTI)
+**Parent Framework:** [CASTI–Mobility Sub-Project](https://github.com/CHI-CityTech/CHI-StudentResearch/blob/main/Potential%20Projects/casti_mobility_subproject.md)  
+**Meta-Project Context:** [CHI Autonomous Systems Trust Initiative (CASTI) Meta-Project](https://github.com/CHI-CityTech/CHI-StudentResearch/blob/main/Potential%20Projects/casti_meta_project_framework.md) 
 
 This proposal functions as a **subset investigation** within the CASTI–Mobility Sub-Project. It focuses on the specific question of **public trust in autonomous transportation systems**, serving as an initial, literature-driven and speculative research phase that will contribute foundational analysis and BBS syntax models to CASTI’s broader framework of trust, ethics, safety, and reliability in autonomous control environments.
 
