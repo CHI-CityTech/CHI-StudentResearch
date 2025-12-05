@@ -14,6 +14,17 @@ Daniel Cruz Sanchez -
 
 Behlul Vardal: Project Rainy Cloud  
 
+**India Barker**
+Contact: Sep 24 2025 email
+Hello Professor Smith, I'm reaching out to see if you're open to me working as a mentee for the undergraduate research this year! I am very interested in the game design, music and others in your research field!
+
+Hope to hear back from you soon. Have a good afternoon/evening.
+
+Sincerely,
+India Barker
+Email: india.barker@mail.citytech.cuny.edu
+
+
 **Nichole Rabines - INternship ENT student**
  
 From: Nicole.Rabines <Nicole.Rabines@mail.citytech.cuny.edu>
