@@ -6,6 +6,7 @@
 **Project Type:** ESP Emerging Scholar Project  
 **Discipline:** Communication Design  
 **Software & Tools:** FL Studio, Virtual Instruments, Synthesizers, DAW-Based Production  
+**Edited 2026-01-30**
 
 ---
 
@@ -46,6 +47,14 @@ This fusion study not only stands as a unique musical experiment but also aligns
 
 ### 3.1 Research & Selection
 
+**Speculative Intuitive Research**
+- Purpose is to develop some intuitive understanding of the range of chinese musical traditions
+- Immersive experience of many different musical pieces
+- Use Spotify, or other music platform, and identify playlists of as wide a variety of differetn chinese genres and traditions.
+- Listen as much as possible, during commute, exercise, etc etc etc
+- identify using a ""Like" or other tag so that at the end of this phase, you have collected a set of pieces that have intrigued you for one reason or other.
+- List the differetn cultural traditions or styles.
+- 
 **Precedent Research**  
 - Identify and study key Chinese musical genres, focusing on historical context and defining features.  
 - Determine which genre is most promising for a potential fusion with Wave.
