@@ -8,3 +8,14 @@ Kazi Tazin
 Francky Duperval  
 Sumiya Jahan  
 Eric White  
+Hosain Ali  
+India Barker  
+Sam Cheung  
+Katherine Crennan  
+David Cruikshank  
+Keith Derek  
+Isaiah Martinez
+Laura Martino  
+Isabella Ramos  
+Sunima Denzol  
+
