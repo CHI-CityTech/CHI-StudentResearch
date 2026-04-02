@@ -17,6 +17,7 @@ Keith Derek
 Isaiah Martinez
 Laura Martino  
 Isabella Ramos  
-Sunima Denzol 
+Sunima Denzol   
 Behlul Vardal
+Anderson Tenecele
 
