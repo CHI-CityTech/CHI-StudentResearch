@@ -8,7 +8,7 @@ Kazi Tazin
 Francky Duperval  
 Sumiya Jahan  
 Eric White  
-Hosain Ali  - Uploaded 
+Hosain Ali  - Uploaded   
 India Barker  
 Sam Cheung  
 Katherine Crennan  
