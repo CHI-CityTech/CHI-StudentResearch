@@ -25,9 +25,9 @@ Lizbeth Bolanos (COMD, UX Research – course-integrated)\
 Michelle Wu Feng (COMD, UX Research – course-integrated)\
 Diana Diakite (COMD, UX Research – course-integrated)\
 Francesca Salas (COMD, UX Research – course-integrated)\
-Tshari Yancey (ENT, )\
-Samuel Cheung (MTEC)\
-Aryan Lnu (ENT, FWS)\
+Tshari Yancey (ENT, ESP)\
+Samuel Cheung (MTEC, ESP)\
+Aryan Lnu (ENT, ESP)\
 Nicholas Ramdin (MTEC, IS)
 
 Alexandra Tourkova (COMD, Grant)
