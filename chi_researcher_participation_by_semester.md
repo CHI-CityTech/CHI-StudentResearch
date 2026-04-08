@@ -160,7 +160,8 @@ Jay Kim (MTEC)\
 Milsy Pena (HCPM, ESP)\
 Shabik Sherchan (ESP)\
 Behlul Vardal  (MTEC)\
-Sunima Dangol (CS, Caldwell U)
+Sunima Dangol (CS, Caldwell U)  
+Tshari Yancey (ENT, Internship)  
 
 ### CST Data Science Club (Cohort – Alphabetized, Deduplicated)
 
