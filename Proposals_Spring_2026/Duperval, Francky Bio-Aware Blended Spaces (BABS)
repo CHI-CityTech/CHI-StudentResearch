@@ -1,0 +1,214 @@
+
+# **Statement of Work (SoW)**
+## **Bio-Aware Blended Spaces (BABS) – Arc 2: SDK Validation, Raw Signal Ingest, and Scalable Capture**
+
+
+---
+
+
+## **1. Project Context**
+This Statement of Work defines the scope, objectives, deliverables, and timeline for **Arc 2** of the **Bio-Aware Blended Spaces (BABS)** meta-project for the upcoming semester. BABS is a type of **Blended Reality Performance System (BRPS)** designed around the **Balanced Blended Space (BBS)** framework.
+
+
+Phase 1 established the feasibility of biosensory mediation by demonstrating that biological signals can be captured, normalized, and transformed into audiovisual output through explicit mediation pathways. Arc 2 builds directly on that foundation by deepening engagement with **signal semantics, agency, and structure**, while still remaining within a controlled research scope.
+
+
+---
+
+
+## **2. Arc 2 Purpose**
+Arc 2 investigates how **high-dimensional biosensory data**—specifically EEG and heart-rate signals from the **Muse 2 system**—can be meaningfully structured, interpreted, and deployed within a bio-aware blended environment. This phase introduces **precedent research**, **formal mediation syntax**, and **emergent human–AI agency**, while avoiding premature system expansion.
+
+
+---
+
+
+## **3. Scope of Work (Arc 2)**
+
+
+### **3.1 Included Scope**
+- Selection and validation of **Muse 2 EEG + heart-rate data streams**
+- Acquisition and evaluation of **raw waveform access via SDK**
+- Characterization of data ranges, refresh rates, latency, and stability
+- Design of **biosignal capture and logging mechanisms**
+- Mapping of raw and derived signals into **numerically expressive control domains**
+- Development of a **mediation pathway syntax** for single and future multi-sensor use
+- Human agency testing (volitional control, training, feedback)
+- Introduction of **AI as an interpretive/interpolative agent** (non-generative)
+- Precedent research into artistic and research biosignal mapping practices
+- Documentation of findings in CHI-aligned repositories
+
+
+### **3.2 Explicitly Out of Scope (Arc 2)**
+- Large-scale multi-sensor expansion
+- Clinical or therapeutic claims
+- Audience-facing installations
+- Persistent biometric databases
+- Autonomous generative AI authorship
+
+
+---
+
+
+## **4. Work Packages**
+
+
+### **WP1: Precedent & Contextual Research**
+Survey historical and contemporary practices in biosignal mapping (EEG, HR, GSR) across music, sound art, visual installation, and performance systems. Analyze mapping strategies and extract design implications for BABS mediation pathways.
+
+
+**Deliverables:**
+- Annotated bibliography (Zotero / CHIIDS)
+- Comparative mapping matrix
+- Design implications summary
+
+
+---
+
+
+### **WP2: Muse 2 SDK Validation and Raw Signal Ingest (Critical Path)**
+Establish end-to-end access to Muse 2 data via SDK and confirm **raw waveform ingest into Max/MSP + Jitter**. This work package is the critical path for Arc 2 and must be proven early.
+
+
+Key requirements include:
+- Confirm SDK installation and licensing constraints
+- Confirm raw waveform availability (EEG + PPG/HR if available) on **desktop and/or mobile** pathways
+- Characterize data stream properties (channels, numerical ranges, refresh rates, packet formats, latency)
+- Implement a reliable pathway from SDK output → middleware (OSC/LSL/BLE/UDP as appropriate) → Max/MSP ingest
+- Produce a minimal Max patch that visualizes at least one raw stream (scope/plot) as proof of ingest
+
+
+**Deliverables:**
+- SDK access confirmation
+- Data stream inventory
+- Latency and stability report
+
+
+---
+
+
+### **WP3: Signal Capture, Dataset Readiness, and Derived Feature Paths**
+Design and implement capture mechanisms that log raw and derived biosignal data in formats suitable for future machine learning and personalized-model strategies. Arc 2 must anticipate later reuse without over-optimizing.
+
+
+Key requirements include:
+- Define capture schema (timebase, device metadata, channel mapping, units, calibration notes)
+- Log raw streams and selected derived measures (bands, HRV proxies, motion summaries) as separate layers
+- Store data in an analysis-friendly format (CSV/JSON/Parquet), with clear provenance and reproducibility
+- Establish replay capability (recorded session → streamed back into Max) to support testing and demos
+- Include consent/ethics notes and redaction strategy where applicable (non-clinical, non-diagnostic)
+
+
+**Deliverables:**
+- Capture scripts or patches
+- Raw and derived data examples
+- Documentation of derivation strategies
+
+
+---
+
+
+### **WP4: Mediation Pathway Syntax and Multi-Sensor Organization (Scaffold)**
+Develop an organizing syntax for mediation pathways that supports multiple sensors and multiple output vectors, even though Arc 2 deploys only through Max/MSP + Jitter. The purpose is to ensure scalability and interoperability.
+
+
+Key requirements include:
+- Define a minimal syntax for: Sensor/Source → Vector/Transform → Destination/Output
+- Specify how multiple sensors will be registered (IDs, channel descriptors, sampling properties)
+- Specify how multiple output pathways will be described (Max as one destination among future options)
+- Produce at least two worked examples using Muse 2 streams (raw and derived)
+- Keep this as a descriptive scaffold, not an optimization protocol
+
+
+**Deliverables:**
+- Mediation pathway diagrams
+- Syntax specification document
+- Example mappings (signal → control → output)
+
+
+---
+
+
+### **WP5: Human Agency & Feedback Testing**
+Conduct controlled experiments to test whether users can intentionally influence biosignals in ways that produce perceptible environmental change.
+
+
+**Deliverables:**
+- Test protocols
+- Observational findings
+- Refined mapping adjustments
+
+
+---
+
+
+### **WP6: AI Interpretive Layer (Exploratory)**
+Introduce an agentic AI layer that interpolates or interprets biosignal-derived data to assist in mapping decisions or environment modulation.
+
+
+**Deliverables:**
+- AI role definition
+- Prototype interpretive model
+- Evaluation notes (benefits and limits)
+
+
+---
+
+
+## **5. Timeline (Semester Arc: Arc 2)**
+| Weeks | Focus | Primary Outputs |
+|------|------|-----------------|
+| 1–2 | SDK onboarding + raw-stream access (critical path) | SDK validated, first raw stream visible in Max |
+| 3–4 | Stream characterization + ingest robustness | Channel inventory, latency notes, stable Max ingest |
+| 5–6 | Dataset-ready capture schema + logging | Capture format, logging pipeline, sample datasets |
+| 7–8 | Derived feature paths + replay | Derived metrics, session replay into Max |
+| 9–10 | Mediation syntax scaffold + multi-sensor registration model | Syntax draft, registration approach, examples |
+| 11–12 | PoC demonstration build (Max-only) | End-to-end demo: Muse → Max AV response |
+| 13–14 | Documentation + handoff planning | Repo updates, next-arc recommendations |
+
+
+**End-of-semester goal:** a working **proof-of-concept (PoC)** demonstrating raw Muse 2 data ingestion into Max/MSP + Jitter and a visible/audible transformation via mediation pathways.
+
+
+
+
+---
+
+
+## **6. Deliverables Summary (Arc 2)**
+- Precedent research dossier (artists/researchers mapping biosignals to output)
+- **Muse 2 SDK validated** and raw waveform access confirmed
+- **Raw signal ingest into Max/MSP + Jitter** (proof patch + visualization)
+- Data stream inventory (ranges, refresh, latency)
+- Dataset-ready capture schema + logging pipeline (raw + derived layers)
+- Replay mechanism (recorded session → streamed back into Max)
+- Mediation pathway syntax scaffold (including multi-sensor registration model)
+- End-of-semester **PoC demo** (Muse → Max audiovisual transformation)
+
+
+## **7. Evaluation Criteria**
+- Clarity and reproducibility of mediation pathways
+- Demonstrated understanding of biosignal behavior
+- Evidence of intentional human influence
+- Coherence of mediation syntax
+- Appropriate and limited use of AI as collaborator
+- Quality and completeness of documentation
+
+
+---
+
+
+## **8. Arc 2 Exit Condition**
+Arc 2 is complete when the team can demonstrate, document, and reproduce the following:
+1. **SDK access is operational** and raw Muse 2 streams can be obtained reliably.
+2. **Raw data ingest into Max/MSP + Jitter** is proven with a working patch.
+3. A **dataset-ready capture pipeline** logs raw + derived data with adequate metadata for future ML/personalized-model work.
+4. A minimal **mediation pathway syntax scaffold** exists that anticipates future sensors and output destinations.
+5. A semester-end **PoC demonstration** shows end-to-end mediation: Muse 2 → ingest → transform → audiovisual output.
+
+
+---
+
+
+## **9. Transition Planning (Arc 3 and Beyond)**
+Arc 3 will expand beyond Max-only deployment, introducing an organizing layer that can route data to multiple destinations (Max as one), support multiple student sensor vectors, and begin structured recursion and interpretive AI. This future work should remain gated on the Arc 2 exit condition rather than assumed.
