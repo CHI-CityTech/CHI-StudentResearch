@@ -13,7 +13,7 @@ India Barker
 Sam Cheung  
 Katherine Crennan  
 David Cruikshank  - Needs SOW  
-Keith Derek  
+Keith Derek  - Needs SOW  
 Isaiah Martinez
 Laura Martino  
 Isabella Ramos  
