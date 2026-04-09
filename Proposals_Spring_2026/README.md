@@ -14,7 +14,7 @@ Sam Cheung
 Katherine Crennan  
 David Cruikshank  - Needs SOW  
 Keith Derek  - Needs SOW  
-Isaiah Martinez
+Isaiah Martinez  
 Laura Martino  
 Isabella Ramos  
 Sunima Denzol   
