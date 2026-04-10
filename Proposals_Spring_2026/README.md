@@ -3,8 +3,8 @@ This folder provides documents for Spring 2026 research proposals from specific 
 Current 2026 Student researchers include:  
 
 Tshari Yancey  
-Kazi Islam  - Needs SOW  
-Kazi Tazin  - Needs SOW  
+Kazi Islam  - ?  
+Kazi Tazin  - ?  
 Francky Duperval  - Uploaded  
 Sumiya Jahan  
 Eric White  
@@ -12,13 +12,13 @@ Hosain Ali  - Uploaded
 India Barker  
 Sam Cheung  
 Katherine Crennan  
-David Cruikshank  - Needs SOW  
-Keith Derek  - Needs SOW  
+David Cruikshank  - ?  
+Keith Derek  - ?   
 Isaiah Martinez  - FIX  
-Laura Martino  - Needs SOW  
-Isabella Ramos  - Needs SOW  
-Sunima Denzol - Needs SOW  
-Behlul Vardal  
+Laura Martino  - ?   
+Isabella Ramos  - ?  
+Sunima Denzol - ?  
+Behlul Vardal  - Uploaded  
 Anderson Tenecele  
 Manny Aponte
 
