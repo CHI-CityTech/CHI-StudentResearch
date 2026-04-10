@@ -15,7 +15,7 @@ Katherine Crennan
 David Cruikshank  - Needs SOW  
 Keith Derek  - Needs SOW  
 Isaiah Martinez  
-Laura Martino  
+Laura Martino  - Needs SOW  
 Isabella Ramos  
 Sunima Denzol   
 Behlul Vardal
