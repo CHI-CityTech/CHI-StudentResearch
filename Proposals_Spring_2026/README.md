@@ -17,8 +17,8 @@ Keith Derek  - Needs SOW
 Isaiah Martinez  
 Laura Martino  - Needs SOW  
 Isabella Ramos  - Needs SOW  
-Sunima Denzol   
-Behlul Vardal
-Anderson Tenecele
+Sunima Denzol - Needs SOW  
+Behlul Vardal  
+Anderson Tenecele  
 Manny Aponte
 
