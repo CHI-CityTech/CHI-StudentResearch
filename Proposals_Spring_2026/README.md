@@ -16,7 +16,7 @@ David Cruikshank  - Needs SOW
 Keith Derek  - Needs SOW  
 Isaiah Martinez  
 Laura Martino  - Needs SOW  
-Isabella Ramos  
+Isabella Ramos  - Needs SOW  
 Sunima Denzol   
 Behlul Vardal
 Anderson Tenecele
