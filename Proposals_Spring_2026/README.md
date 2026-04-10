@@ -14,7 +14,7 @@ Sam Cheung
 Katherine Crennan  
 David Cruikshank  - Needs SOW  
 Keith Derek  - Needs SOW  
-Isaiah Martinez  
+Isaiah Martinez  - FIX  
 Laura Martino  - Needs SOW  
 Isabella Ramos  - Needs SOW  
 Sunima Denzol - Needs SOW  
