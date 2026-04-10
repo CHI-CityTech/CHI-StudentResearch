@@ -4,7 +4,7 @@ Current 2026 Student researchers include:
 
 Tshari Yancey  
 Kazi Islam  - Needs SOW  
-Kazi Tazin  - Needs SOW
+Kazi Tazin  - Needs SOW  
 Francky Duperval  - Uploaded  
 Sumiya Jahan  
 Eric White  
