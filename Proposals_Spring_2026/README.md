@@ -20,6 +20,5 @@ Isabella Ramos  - ?
 Sunima Denzol - ?  
 Behlul Vardal  - Uploaded  
 Anderson Tenecele - ?   
-Manny Aponte - ?   
-Isaiah Martinez - Uploaded  
+Manny Aponte - ?  
 
