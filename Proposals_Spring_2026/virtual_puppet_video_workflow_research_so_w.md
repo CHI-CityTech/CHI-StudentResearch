@@ -14,6 +14,10 @@ This Statement of Work defines a structured research initiative to evaluate mult
 
 This document is exploratory in nature. Unlike production-focused SoWs, this phase emphasizes controlled comparison across multiple approaches. The outcome will be a selected workflow that becomes the standard pipeline for subsequent capture and production work.
 
+![Shadow puppet video workflow arrangements](../assets/shadow-puppet-video-arrangements.png)
+
+*Figure: Draft arrangement map for virtual puppet video workflow exploration.*
+
 ---
 
 ## Research Objectives
