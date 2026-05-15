@@ -2,7 +2,8 @@
 
 ## Meeting Context
 
-Date: Friday meeting between David Smith and Noel Nova to plan an independent study project for Noel's final three credits before graduation in September.
+Date: Friday meeting between David Smith and Noel Nova to plan an independent study project for Noel's final three credits before graduation in September.  Work would be within teh Center for Holistic Integration.  
+
 ## Project Overview
 
 ### Core Concept
@@ -193,11 +194,11 @@ David emphasized practical considerations throughout: delivery mechanisms (Twine
 - Interest in Japanese samurai culture and Edo period
 - Final semester before graduation
 
-### Qi Ecosystem Integration
+### CHI Ecosystem Integration
 
 - Project becomes part of core reality/cardinality of fictive world
-- Noel will receive Qi fellowship
-- Work published under Qi deliverables list
+- Noel will receive CHI fellowship
+- Work published under CHI deliverables list
 - Contributes to larger narrative universe
 
 ## Success Criteria
