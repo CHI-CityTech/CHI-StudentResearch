@@ -1,4 +1,4 @@
-# Meeting 0: David Smith's Personal Meeting Room - Detailed Notes
+# Meeting 0: Noel Nova / David B. Smith - Meeting Notes
 
 ## Meeting Context
 
