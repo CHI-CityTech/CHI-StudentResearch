@@ -20,6 +20,6 @@ Isabella Ramos  - ?
 Sunima Denzol - ?  
 Behlul Vardal  - Uploaded  
 Anderson Tenecele - ?   
-Manny Aponte - ?  
+Manny Aponte - Uploaded
 Kazi Tamim - Uploaded
 
