@@ -2,7 +2,7 @@ This folder provides documents for Spring 2026 research proposals from specific 
 
 Current 2026 Student researchers include:  
 
-Tshari Yancey  - Uploaded
+Tshari Yancey  - Uploaded  
 Kazi Islam  - ?  
 Kazi Tazin  - ?  
 Francky Duperval  - Uploaded  
