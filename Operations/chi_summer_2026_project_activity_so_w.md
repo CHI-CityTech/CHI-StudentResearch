@@ -17,9 +17,9 @@ By the end of the summer, the project should yield a working room-scale system w
 
 ## 2. Overall Framing
 
-The summer work should be understood as a coordinated development phase across several overlapping CHI meta-projects. These include, but are not limited to, the OAA Self-Aware Room, the AVMI immersive audio system, Blended Shadow Puppet Year 3 / Act 3, Unity-based digital twin development, semantic mediation research, which may include quantum computing, AI/LLM integration, and CHI media/documentation infrastructure.
+The summer work should be understood as a coordinated development phase across several overlapping CHI meta-projects. These include, but are not limited to, the **OAA Self-Aware Room**, the **AVMI immersive audio system**, **Blended Shadow Puppet Year 3/Act 3**, **Unity-based digital twin development**, **semantic mediation research**, which may include **quantum computing**, **AI/LLM integration**, and **CHI media/documentation** and **CHIIDS** infrastructure.
 
-These initiatives are not subordinate components of a single master project. Each retains its own research and creative trajectory. The summer opportunity lies in constructing interfaces among them: shared room infrastructure, media systems, projection surfaces, audio playback, sensor pathways, documentation practices, and conceptual frameworks that allow contributions from different students to accumulate within a common environment.
+These initiatives are not subordinate components of a single master project. Each retains its own research and creative trajectory. The summer opportunity lies in their integration: shared room infrastructure, media systems, projection surfaces, audio playback, sensor pathways, documentation practices, and conceptual frameworks that allow contributions from different students to accumulate within a common environment.
 
 LG-038 should therefore be treated as a persistent blended research environment rather than as a neutral classroom or temporary lab. The room is being developed as a configurable but continuous substrate for projection, spatial audio, distributed audio, triptych-based scenic/media structures, puppet performance, sensing, digital-twin representation, and future higher-level semantic or responsive behavior.
 
@@ -27,23 +27,23 @@ LG-038 should therefore be treated as a persistent blended research environment 
 
 The primary summer goals are as follows:
 
-First, assemble the basic physical and technical infrastructure needed to support ongoing room-scale work in LG-038. This includes triptych-related structural development using TSlot 8020 modular framing hardware, projection surfaces using a variety of different projectors and projections surfaces, audio deployment and installation of an ATMOS 7.1.4 immersive sound system as well as peripheral distant field monitors, routing and integration with media servers for both visual and acoustical environments, the development of digital twin systems that integrate with these physical elements, and selected OAA-funded sensing and intelligant systems.
+First, **assemble the basic physical and technical infrastructure needed to support ongoing room-scale work in LG-038**. This includes triptych-related structural development using TSlot 8020 modular framing hardware, projection surfaces using a variety of different projectors and projections surfaces, audio deployment and installation of an ATMOS 7.1.4 immersive sound system as well as peripheral distant field monitors, routing and integration with media servers for both visual and acoustical environments, the development of digital twin systems that integrate with these physical elements, and selected OAA-funded sensing and intelligant systems.
 
-Second, install and test at least a subset of the OAA-supported systems in a form that is operational rather than merely proposed. This includes projection, immersive audio playback, selected distributed or localized audio strategies, triptych-related structures, and early sensing or technical-spine concepts where practical.
+Second, **install and test at least a subset of the OAA-supported systems in a form that is operational rather than merely proposed**. This includes projection, immersive audio playback, selected distributed or localized audio strategies, triptych-related structures, and early sensing or technical-spine concepts where practical.
 
-Third, ensure that the core systems are documented clearly enough that future engineering, artistic, and research contributions can proceed on an informed basis. The summer should produce records, diagrams, standards, repository structures, and process documentation rather than only physical build outcomes.
+Third, **ensure that the core systems are documented clearly enough that future engineering, artistic, and research contributions can proceed on an informed basis**. The summer should produce records, diagrams, standards, repository structures, and process documentation rather than only physical build outcomes.
 
-Fourth, continue development of ongoing project activities in parallel. Content, scripts, media, narrative systems, sound materials, worldbuilding, semantic frameworks, and virtual representations should continue to evolve alongside infrastructure work.
+Fourth, **continue development of ongoing project activities in parallel**. Content, scripts, media, narrative systems, sound materials, music, worldbuilding, semantic frameworks, and virtual representations should continue to evolve alongside infrastructure work.
 
-Fifth, evaluate how flexible the room can be as an environment. The summer should not only build fixed components, but also test how reconfigurable the space is with respect to multiple projection surfaces, triptych placement, immersive and distributed audio, performative use, and future sensing/computational extension, as well as integration with research, administrative, and exhibition areas.
+Fifth, **evaluate how flexible the room can be as an environment**. The summer should not only build fixed components, but also test how reconfigurable the space is with respect to multiple projection surfaces, triptych placement, immersive and distributed audio, performative use, and future sensing/computational extension, as well as integration with research, administrative, and exhibition areas.
 
-Sixth, establish the shared operational framework for the cohort, including onboarding, communication, repository structure, and first-day orientation practices that allow the team to work as a coordinated summer unit rather than as isolated contributors.
+Sixth, **establish the shared operational framework for the cohort**, including onboarding, communication, repository structure, and first-day orientation practices that allow the team to work as a coordinated summer unit rather than as isolated contributors.
 
-Seventh, generate meaningful product in multiples areas, including academic and creative publications, performances, software, games, and integration into the shared fictive universe.
+Seventh, **generate meaningful product in multiples areas**, including academic and creative publications, performances, software, games, and integration into the shared fictive universe.
 
 ## 4. Intended End-of-Summer Outcome
 
-The intended summer endpoint is a working demonstration environment rather than a finished final production.
+The intended summer endpoint is a working proof-of-concept   environment rather than a finished final production.
 
 At minimum, the summer effort should aim to produce:
 
