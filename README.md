@@ -19,6 +19,45 @@ The current summer effort includes triptych/scenic structure development, projec
 
 The immediate milestone is a basic playable baseline system in place by July 31, 2026.
 
+### Program Relationship Notes
+
+- BRPS is treated as a CHI meta-program layer (via the META BRPS repository), not as a single standalone implementation project.
+- BABS (Bio-Aware Blended Spaces) is a defined subset/component within the OAA Self-Aware Room (SAR) workstream, focused on interactions with biological entities (primarily human participants) and related perception.
+- Summer 2026 operations in this repository should therefore cross-reference BRPS/BBS/BABS context while keeping student proposal and operations materials organized locally.
+
+### This Week: Individual Fellow Meetings
+
+Each fellow will meet with Dr. Smith at least once this week to clarify:
+
+- project objectives and expected deliverables;
+- required technical and documentation standards;
+- role fit across physical, virtual, media, semantic, or administrative workstreams;
+- expected weekly hourly commitment and degree of effort.
+
+Before the meeting, each student should:
+
+- complete the read-first sequence listed above;
+- review their own proposal or source document now placed in the Summer 2026 proposal folder;
+- arrive with an initial commitment estimate (hours per week), including known scheduling constraints;
+- be prepared to identify dependencies, support needs, and one July baseline contribution.
+
+### Summer 2026 Working Participant List
+
+This list is a current working roster and may be refined after this week of meetings.
+
+- Gabriel Aguilar
+- Manny Aponte
+- Samuel Cheung
+- Evengelina Chauhan
+- Sunima Dangol
+- Kazi Islam
+- Isaiah Martinez
+- Paul Mizetskiy
+- Noel Nova
+- Kazi Tasin
+- Eric White
+- Tshari Yancey
+
 ## Repository Description
 
 This repository supports CHI student research proposals, current-semester operations planning, and governance documentation across multiple CHI meta-projects. It functions both as a student-facing coordination space for active semesters and as a continuing record of proposals, planning materials, and repository organization logic.

@@ -13,16 +13,49 @@ The broader **initial task phase** extends beyond the first day. It includes the
 
 This distinction is important because not everything that must happen early can or should happen on day one.
 
-## 2. First-Day Tasks
+## 2. Week 0 Tasks (Pre-Launch Individual Meetings)
 
-### 2.1 Cohort Launch and Orientation
+Before the cohort launch day, Week 0 should be used for short individual meetings with each fellow after document review.
+
+### 2.1 Week 0 Document Review Requirement
+
+Before their individual meeting, each fellow should review:
+
+1. Student onboarding guidance.
+2. Summer 2026 operations SoW.
+3. Summer 2026 launch tasks and task matrix.
+4. Their own current proposal/source document in the Summer 2026 proposal folder.
+
+### 2.2 Week 0 Individual Meeting Outcomes
+
+Each individual meeting should confirm:
+
+1. student-specific objectives and expected deliverables;
+2. expected technical/documentation standards;
+3. contribution modality (physical, virtual, media, semantic, administrative, or hybrid);
+4. expected weekly hourly commitment and degree of effort;
+5. one required July baseline contribution and one August extension direction.
+
+### 2.3 Week 0 Deliverables
+
+By the end of Week 0, the project should have:
+
+- a current participant roster with role notes;
+- a per-student commitment estimate;
+- initial dependency and support needs per student;
+- a first-pass mapping of each student to project workstreams;
+- clear identification of students with missing source proposal documents.
+
+## 3. First-Day Tasks
+
+### 3.1 Cohort Launch and Orientation
 
 1. Convene the cohort in LG-038 on Monday, July 13, 2026 at 10:00 a.m.
 2. Introduce the summer project as a coordinated CHI environment rather than a set of unrelated projects.
 3. Have each participant introduce themselves, their principal role, and what they believe they are there to do.
 4. Announce the attempted summer deliverables at a high level so the cohort shares a common target.
 
-### 2.2 Room Walk-Through and Situation Assessment
+### 3.2 Room Walk-Through and Situation Assessment
 
 1. Walk the room and identify the main current zones.
 2. Review the existing conceptual room layout already established in the architectural material.
@@ -30,14 +63,14 @@ This distinction is important because not everything that must happen early can 
 4. Flag those legacy materials for removal, capture, and formalization.
 5. Identify where active clutter, obsolete materials, or unclear room ownership may interfere with productive work.
 
-### 2.3 Inventory Confirmation
+### 3.3 Inventory Confirmation
 
 1. Confirm what major materials and systems are physically present.
 2. Identify what may still need to be received or transferred from Entertainment Technology labs or elsewhere.
 3. Confirm the first cabinet as the T-slot and older-material storage location.
 4. Note major subsystems by category: triptych/8020, projection, immersive audio, distributed audio, sensing/computation, documentation/media.
 
-### 2.4 GitHub and Communication Activation
+### 3.4 GitHub and Communication Activation
 
 1. Confirm or create the central GitHub environment for the summer.
 2. Add researchers to existing repositories where appropriate.
@@ -46,14 +79,14 @@ This distinction is important because not everything that must happen early can 
 5. Confirm or create the summer CHI Discord server.
 6. Clarify how the summer Discord relates to the broader CHI communication structure.
 
-### 2.5 Immediate Documentation Capture
+### 3.5 Immediate Documentation Capture
 
 1. Photograph the room in its starting condition.
 2. Capture the existing wall charts and task lists before removing them.
 3. Start a launch-day log in GitHub or another agreed documentation space.
 4. Record what is known, what is missing, and what remains uncertain.
 
-### 2.6 First-Day Deliverables
+### 3.6 First-Day Deliverables
 
 By the end of the first day, the team should attempt to leave with the following:
 
@@ -65,16 +98,16 @@ By the end of the first day, the team should attempt to leave with the following
 - a first shared understanding of room zones and constraints;
 - a list of unresolved questions requiring action in the initial task phase.
 
-## 3. Initial Tasks (Beyond the First Day)
+## 4. Initial Tasks (Beyond the First Day)
 
-### 3.1 Room Cleanup and Formalization
+### 4.1 Room Cleanup and Formalization
 
 1. Remove temporary or outdated wall charts, informal task lists, and other legacy planning artifacts after they have been captured.
 2. Convert those materials into formal tracked documents, repository tasks, or diagrams.
 3. Sort visible clutter, loose materials, and obsolete room contents.
 4. Identify what should remain accessible, what should go into cabinet or shelf storage, and what should be relocated.
 
-### 3.2 Storage, Shelving, and Workspace Allocation
+### 4.2 Storage, Shelving, and Workspace Allocation
 
 1. Perform a shelving and storage-box count.
 2. Determine current storage capacity and what it is already holding.
@@ -82,7 +115,7 @@ By the end of the first day, the team should attempt to leave with the following
 4. Determine where temporary versus persistent workstations should reside.
 5. Identify whether any spaces must remain flexible for changing room configurations.
 
-### 3.3 Cabinet and Furniture Tasks
+### 4.3 Cabinet and Furniture Tasks
 
 1. Confirm the organization of the first cabinet as the T-slot and older-material cabinet.
 2. Construct the second cabinet.
@@ -90,7 +123,7 @@ By the end of the first day, the team should attempt to leave with the following
 4. Draft a cabinet/storage allocation diagram.
 5. Identify any shelves, tables, or furniture that must be moved or repurposed.
 
-### 3.4 Repository Creation, Cleanup, and Access
+### 4.4 Repository Creation, Cleanup, and Access
 
 1. Create required repositories for summer workstreams.
 2. Add participants to existing repositories where appropriate.
@@ -98,21 +131,21 @@ By the end of the first day, the team should attempt to leave with the following
 4. Establish naming conventions, issue logic, and minimum documentation standards.
 5. Create a task-tracking structure that researchers can actually use.
 
-### 3.5 Room Systems Chart
+### 4.5 Room Systems Chart
 
 1. Develop the first operational room systems chart using the conceptual architectural layout as a baseline.
 2. Show where cabinets, compute systems, racks, projector zones, speaker zones, interfaces, shelves, and work areas are expected to reside.
 3. Identify internet/network locations, local technical-spine assumptions, and likely cable paths.
 4. Use the chart to distinguish student-installed systems from infrastructure requiring IT, B&G, or architectural coordination.
 
-### 3.6 Infrastructure Coordination Documents
+### 4.6 Infrastructure Coordination Documents
 
 1. Draft a B&G-facing document describing room/infrastructure requirements.
 2. Draft an IT-facing document describing network and systems requirements.
 3. Coordinate requests involving room architecture and infrastructure through Mariano Almedy where appropriate.
 4. Separate student-build tasks from campus-supported infrastructure tasks.
 
-### 3.7 Initial Technical Priorities
+### 4.7 Initial Technical Priorities
 
 1. Confirm the first triptych build plan.
 2. Confirm hinge assumptions and whether additional hinges may later be needed.
@@ -121,7 +154,7 @@ By the end of the first day, the team should attempt to leave with the following
 5. Confirm first routing assumptions for the distributed Anchor speaker field.
 6. Confirm likely compute, rack, and interface locations.
 
-### 3.8 Researcher-Specific Task Proposals
+### 4.8 Researcher-Specific Task Proposals and Commitment Profiles
 
 Each participant should submit an initial project-specific task note that includes:
 
@@ -130,8 +163,19 @@ Each participant should submit an initial project-specific task note that includ
 3. Their materials/software/access needs.
 4. Their first attempted deliverables.
 5. What they will document from the start.
+6. Their weekly commitment estimate confirmed in Week 0.
+7. How their work contributes to the July baseline system target.
 
-## 4. First Researcher-Specific Starting Tasks
+### 4.9 Narrative and Worldbuilding Coordination
+
+Because summer work includes narrative projects as well as technical infrastructure, narrative-track work should be treated as a parallel workstream, not as optional overflow.
+
+1. Identify narrative-track participants and confirm their first deliverables.
+2. Align narrative outputs with BSP performance logic, media capture, and projection tests.
+3. Define repository locations and naming conventions for scripts, worldbuilding notes, and narrative assets.
+4. Confirm how narrative deliverables connect to July baseline demonstrations and August experimentation.
+
+## 5. First Researcher-Specific Starting Tasks
 
 ### Gabriel Aguilar
 - Draft a first control-pathway diagram for QLab, TouchDesigner, projection, audio, and sensors.
@@ -178,6 +222,11 @@ Each participant should submit an initial project-specific task note that includ
 - Identify what materials should enter the repository first.
 - Coordinate with BSP participants so narrative work tracks performance/material development.
 
+### Narrative-Track Coordination (Cross-Student)
+- Establish shared narrative terminology and asset conventions across story, script, and performance documentation.
+- Coordinate narrative priorities among Noel, Tshari, Manny, and relevant BSP collaborators.
+- Ensure narrative deliverables are represented in weekly task tracking alongside technical work.
+
 ### Kazi Tasin
 - Review current sensor/integration assumptions.
 - Draft a first hardware/software integration checklist.
@@ -193,7 +242,7 @@ Each participant should submit an initial project-specific task note that includ
 - Help define what the first triptych must support as a performative object.
 - Participate in opening planning for triptych assembly and evaluation.
 
-## 5. Initial Task-Phase Deliverables
+## 6. Initial Task-Phase Deliverables
 
 The initial task phase should aim to produce:
 
@@ -209,8 +258,9 @@ The initial task phase should aim to produce:
 - first audio system status report;
 - first projection test plan;
 - first round of researcher-specific task proposals.
+- narrative/worldbuilding starter package linked to active BSP and media work.
 
-## 6. Working Note
+## 7. Working Note
 
 This document is intentionally more operational than the conceptual SoW but still precedes a full engineering schedule. It should be revised quickly once the room, inventory, and researcher proposals are confirmed in practice.
 
