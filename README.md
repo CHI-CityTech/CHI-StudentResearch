@@ -21,7 +21,8 @@ The immediate milestone is a basic playable baseline system in place by July 31,
 
 ### Program Relationship Notes
 
-- BRPS is treated as a CHI meta-program layer (via the META BRPS repository), not as a single standalone implementation project.
+- BRPS (Blended Reality Performance System) is treated as a CHI meta-program layer (via the [META BRPS repository](https://github.com/CHI-CityTech/META-Blended-Reality-Performance-System), not as a single standalone implementation project.
+- SAR (Self-Aware Room) is the primary deliverable we are developing, and this connects directly to most researcher's activities). Specifics of the project can be found at the [SAR repository](https://github.com/CHI-CityTech/Self-Aware-Room).  
 - BABS (Bio-Aware Blended Spaces) is a defined subset/component within the OAA Self-Aware Room (SAR) workstream, focused on interactions with biological entities (primarily human participants) and related perception.
 - Summer 2026 operations in this repository should therefore cross-reference BRPS/BBS/BABS context while keeping student proposal and operations materials organized locally.
 
