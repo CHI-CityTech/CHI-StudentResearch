@@ -1,5 +1,5 @@
-name: "01-Master Student Card"
-description: "A central issue for managing student's information."
+name: "Master Student Card (MetaProjects)"
+description: "Student profile and master project card; routes to CHI-CityTech Project 34."
 labels: [master-card, student-profile]
 projects: ["CHI-CityTech/34"]
 assignees: []
@@ -9,6 +9,7 @@ body:
       value: |
         ### 🎓 **Master Student Card**
         This issue serves as the central tracking card for a student's research activities.
+        This card is routed to the Student Master Cards project.
 
   - type: input
     id: student_name

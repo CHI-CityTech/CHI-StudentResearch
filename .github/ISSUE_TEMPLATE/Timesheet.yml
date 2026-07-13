@@ -1,7 +1,8 @@
-name: "CHI-Timesheet"
-description: "Weekly timesheet for tracking hours, deliverables, and links to work completed."
+name: "Timesheet (Summer 2026 TimeSheets)"
+description: "Weekly timesheet card; routes to CHI-CityTech Project 67."
 title: "Timesheet: [Your Name] - Week of [MM/DD/YYYY]"
 labels: ["timesheet", "documentation"]
+projects: ["CHI-CityTech/67"]
 body:
   - type: markdown
     attributes:
@@ -9,6 +10,8 @@ body:
         ## Weekly Timesheet
         Please record your hours and deliverables for this week.  
         You can edit this issue throughout the week as you progress.
+
+        This card is routed to the CHI TimeSheets project for centralized time tracking.
 
   - type: input
     id: week_range
