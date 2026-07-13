@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Student Master Cards Project (MetaProjects)
+  - name: Looking for Project Boards? Student Master Cards
     url: https://github.com/orgs/CHI-CityTech/projects/34
-    about: Master student profile and project-card tracking.
-  - name: TimeSheets Project (Summer 2026)
+    about: Use the Student Master Cards project for student profile and master-card tracking.
+  - name: Looking for Project Boards? TimeSheets Summer 2026
     url: https://github.com/orgs/CHI-CityTech/projects/67
-    about: Weekly timesheet and time reporting tracking.
+    about: Use the TimeSheets project for weekly timesheet and time reporting tracking.
