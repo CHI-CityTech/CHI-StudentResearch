@@ -28,7 +28,13 @@ The immediate milestone is a basic playable baseline system in place by July 31,
 - BABS (Bio-Aware Blended Spaces) is a defined subset/component within the OAA Self-Aware Room (SAR) workstream, focused on interactions with biological entities (primarily human participants) and related perception.
 - Summer 2026 operations in this repository should therefore cross-reference BRPS/BBS/BABS context while keeping student proposal and operations materials organized locally.
 
-### This Week: Individual Fellow Meetings
+### Week03: Triptych 1 build, connect basic computaitonal pathway
+
+The goal this week (July 27-) We hope to have the first triptych at close to 8' tall constructed, and at least one screen mounted.  
+
+We then wish to connect Touch Designer to the computational pipeline using OSC.
+
+### Week01: Individual Fellow Meetings
 
 Each fellow will meet with Dr. Smith at least once this week to clarify:
 
