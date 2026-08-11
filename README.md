@@ -18,6 +18,8 @@ The current summer effort includes triptych/scenic structure development, projec
 - [Summer 2026 Semester README](Proposals/Current/2026_Summer/README.md): the semester-level proposal index for current Summer 2026 student proposal materials.
 - [Summer 2026 Timesheet Submission Instructions](Operations/timesheet_submission_instructions_summer_2026.md): step-by-step guide for weekly timesheet issue submission and board movement.
 - [TimeSheets Project Board (CHI-CityTech Project 67)](https://github.com/orgs/CHI-CityTech/projects/67): centralized weekly time reporting board for Summer 2026.
+- [CHIIDS Integration Workflow (Summer 2026)](Operations/chiids_integration_workflow_summer_2026.md): operating model for deploying validated operational records into CHIIDS.
+- [CHIIDS Handoff Spec: Inventory + Publications](Operations/chiids_handoff_spec_inventory_publications_summer_2026.md): field-level handoff and reconciliation protocol for CHIIDS and CUNY Academic Works candidate tracking.
 
 The immediate milestone is a basic playable baseline system in place by July 31, 2026.
 

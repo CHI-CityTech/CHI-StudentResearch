@@ -6,3 +6,6 @@ contact_links:
   - name: Looking for Project Boards? TimeSheets Summer 2026
     url: https://github.com/orgs/CHI-CityTech/projects/67
     about: Use the TimeSheets project for weekly timesheet and time reporting tracking.
+  - name: CHIIDS Workflow and Handoff Docs
+    url: https://github.com/CHI-CityTech/CHI-StudentResearch/tree/main/Operations
+    about: Use CHIIDS integration and handoff documents for inventory and publication deployment workflow.

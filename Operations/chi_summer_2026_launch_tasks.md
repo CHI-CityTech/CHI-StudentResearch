@@ -100,12 +100,86 @@ By the end of the first day, the team should attempt to leave with the following
 
 ## 4. Initial Tasks (Beyond the First Day)
 
+### 4.0 Week 1 Required Task for All Students
+
+For all students who are not yet represented by an active project card, the first required task is onboarding completion.
+
+1. Complete GitHub onboarding and verify repository access.
+2. Confirm Discord onboarding and workstream-channel access.
+3. Confirm role, commitment estimate, and first attempted deliverable in writing.
+4. Submit or confirm source proposal/SoW intake status.
+5. Acknowledge Week 1 inventory and room-readiness responsibilities.
+
+No Week 1 specialization task should start until this onboarding checklist is complete.
+
 ### 4.1 Room Cleanup and Formalization
 
 1. Remove temporary or outdated wall charts, informal task lists, and other legacy planning artifacts after they have been captured.
 2. Convert those materials into formal tracked documents, repository tasks, or diagrams.
 3. Sort visible clutter, loose materials, and obsolete room contents.
 4. Identify what should remain accessible, what should go into cabinet or shelf storage, and what should be relocated.
+
+### 4.1a Inventory Consolidation (Week 1 Priority)
+
+1. Capture all existing and newly received equipment in one shared master inventory flat file.
+2. Use one row per item or item-set with stable IDs so entries can later migrate to database form without re-entry.
+3. Track ownership/source state (existing CHI, new purchase, transfer, borrowed, unknown).
+4. Track location state (room zone, cabinet/shelf/bin, temporary staging, off-site).
+5. Track operational state (installed, available, needs test, repair needed, missing component).
+6. Require photo evidence for non-trivial equipment rows where feasible.
+7. Add weekly update timestamps and responsible student name for each modified row.
+
+Initial system: spreadsheet/flat file.
+
+Starter template: `Operations/chi_summer_2026_master_inventory_flatfile_template.csv`.
+
+Planned migration path: CHIIDS inventory entities once schema and ingestion are stable.
+
+Working principle: define spreadsheet columns now to match likely CHIIDS fields later.
+
+### 4.1b Wall Artifact Capture, Catalog, and Disposition
+
+All current wall items, legacy charts, posters, and process artifacts should be treated as recoverable project outputs before removal.
+
+1. Photograph every wall item in place before movement.
+2. Assign an artifact ID and create a catalog row for each item.
+3. Record item class (task chart, systems diagram, poster, schedule, performance note, media reference, other).
+4. Record disposition decision for each item: keep in room, move to main foyer, archive in storage, or retire.
+5. Record physical destination and custodian for moved/stored items.
+6. Store cleaned digital captures in a stable repository folder with ID-matched filenames.
+7. Link each catalog row to image path(s), destination, and decision date.
+8. Acquire a pristine digital source version where possible (PDF, DOCX, AI, INDD, SVG, or other editable source).
+9. Record digital source format, storage path, and source owner/custodian in the catalog row.
+
+Starter template: `Operations/chi_summer_2026_wall_artifact_catalog_template.csv`.
+
+### 4.1c Output Storage and Publication Triage
+
+Room-cleanup outputs should be managed in three tiers.
+
+1. Operational record (required): keep full capture and catalog materials in CHI repositories and CHIIDS-linked inventory/task records.
+2. Curated public output (selective): nominate completed, context-ready artifacts for CUNY Academic Works as publications/outputs.
+3. Deferred/working artifacts: keep in CHI internal archive until metadata and rights are clear.
+
+Publication hierarchy requirement:
+
+1. Collect physical capture + digital source acquisition first.
+2. Validate rights and metadata completeness.
+3. Queue eligible artifacts for CUNY Academic Works upload.
+4. Track upload status and record URL in the wall artifact catalog.
+
+Publication decision rule:
+
+- Add to CHIIDS when the item supports operational memory, system history, inventory, or project traceability.
+- Add to CUNY Academic Works when the item qualifies as shareable scholarly/creative output with attribution, date, and rights clarity.
+
+Action item: create a CHIIDS task for "Wall Artifact Intake and Publication Triage" to track conversion from room captures to structured records.
+
+Integration reference: `Operations/chiids_integration_workflow_summer_2026.md`.
+
+Handoff reference: `Operations/chiids_handoff_spec_inventory_publications_summer_2026.md`.
+
+Team/workcell reference: `Operations/chiids_team_workcells_summer_2026.md`.
 
 ### 4.2 Storage, Shelving, and Workspace Allocation
 
@@ -247,7 +321,13 @@ Because summer work includes narrative projects as well as technical infrastruct
 The initial task phase should aim to produce:
 
 - confirmed inventory snapshot;
+- master inventory flat file with stable item IDs and status fields;
 - captured and formalized legacy room task materials;
+- wall artifact catalog with disposition status (keep, foyer, archive, retire);
+- digital photo archive with ID-linked filenames for all wall items and posters;
+- digital source acquisition set (PDF/DOCX/AI/etc.) where available, linked by artifact ID;
+- CUNY Academic Works upload queue/status list with record URLs for published items;
+- CHIIDS intake task for wall artifacts and publication-triage status;
 - shelving/storage-box count;
 - workspace-allocation sketch;
 - cabinet-allocation sketch;

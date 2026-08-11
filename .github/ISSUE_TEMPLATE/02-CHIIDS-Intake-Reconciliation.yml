@@ -1,0 +1,74 @@
+name: "CHIIDS Intake and Reconciliation"
+description: "Weekly deployment of inventory/artifact records from CHI-StudentResearch into CHIIDS."
+title: "CHIIDS Intake: Week of [MM/DD/YYYY]"
+labels: [chiids, documentation, operations]
+projects: ["CHI-CityTech/34"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## CHIIDS Intake and Reconciliation
+        Use this issue to track weekly deployment of validated records into CHIIDS.
+
+        Source references:
+        - Operations/chi_summer_2026_master_inventory_flatfile_template.csv
+        - Operations/chi_summer_2026_wall_artifact_catalog_template.csv
+        - Operations/chiids_handoff_spec_inventory_publications_summer_2026.md
+
+  - type: input
+    id: week_range
+    attributes:
+      label: Week Covered
+      description: "Enter the date range for this intake cycle."
+      placeholder: "MM/DD/YYYY - MM/DD/YYYY"
+    validations:
+      required: true
+
+  - type: textarea
+    id: source_deltas
+    attributes:
+      label: Source Changes Reviewed
+      description: "Summarize what changed in inventory and wall-artifact source files this week."
+      placeholder: "Counts, notable additions, high-priority changes."
+    validations:
+      required: true
+
+  - type: textarea
+    id: ingestion_summary
+    attributes:
+      label: CHIIDS Ingestion Summary
+      description: "Report how many records were queued, ingested, verified, deferred, or rejected."
+      value: |
+        | Record Type | queued | ingested | verified | deferred | rejected |
+        |-------------|--------|----------|----------|----------|----------|
+        | Inventory   |        |          |          |          |          |
+        | WallArtifact|        |          |          |          |          |
+
+  - type: textarea
+    id: publication_candidates
+    attributes:
+      label: Publication Candidates for CUNY Academic Works
+      description: "List candidate artifacts and rights/attribution status."
+      placeholder: "CHI-WALL-0007 - Poster series A - rights clear - candidate for submission"
+
+  - type: textarea
+    id: blockers
+    attributes:
+      label: Exceptions and Blockers
+      description: "List missing evidence, duplicate IDs, unclear rights, or unresolved mapping issues."
+      placeholder: "Example: CHI-INV-0032 missing photo link; CHI-WALL-0014 rights unclear."
+
+  - type: checkboxes
+    id: completion
+    attributes:
+      label: Intake Completion Checklist
+      options:
+        - label: "All new rows were reviewed"
+          required: true
+        - label: "CHIIDS statuses were updated in source rows"
+          required: true
+        - label: "Publication-candidate list was updated"
+          required: true
+        - label: "Weekly summary is ready for project review"
+          required: true

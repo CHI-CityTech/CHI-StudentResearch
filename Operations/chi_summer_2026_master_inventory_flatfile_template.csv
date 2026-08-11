@@ -1,0 +1,2 @@
+item_id,item_name,category,subsystem,ownership_source,source_ref,qty,unit,condition_status,operational_status,room_zone,storage_location,assigned_to,received_date,last_verified_date,verification_by,photo_ref,notes
+CHI-INV-0001,,,,existing_chi,,1,ea,unknown,needs_test,,,,,,,,

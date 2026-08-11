@@ -1,105 +1,124 @@
-name: "Master Student Card (MetaProjects)"
-description: "Student profile and master project card; routes to CHI-CityTech Project 34."
-labels: [master-card, student-profile]
+name: "Master Student Card (Summer 2026)"
+description: "Persistent student profile and onboarding card; routes to CHI-CityTech Project 34."
+title: "Master Card: [Student Name] - Summer 2026"
+labels: [master-card, student-profile, onboarding]
 projects: ["CHI-CityTech/34"]
 assignees: []
 body:
   - type: markdown
     attributes:
       value: |
-        ### 🎓 **Master Student Card**
-        This issue serves as the central tracking card for a student's research activities.
-        This card is routed to the Student Master Cards project.
+        ## Master Student Card
+        Use this card for stable profile, onboarding, role, and baseline task information.
+
+        Do not use this card for weekly time reporting.
+        Weekly progress and hours should be submitted through the separate Timesheet template.
 
   - type: input
     id: student_name
     attributes:
-      label: "🆔 Student Name (GitHub Handle Preferred)"
-      description: "Insert full name"
+      label: "Student Name"
+      description: "Full name."
       placeholder: "E.g., Jane Doe"
-    validations:
-      required: true
-
-  - type: input
-    id: student_major
-    attributes:
-      label: "🆔 Academic Major"
-      description: "Your major or department here"
-      placeholder: "E.g., Computer Systems Technology"
     validations:
       required: true
 
   - type: input
     id: github_username
     attributes:
-      label: "🐙 GitHub Username"
-      description: "Use your GitHub handle (@username) to create a direct profile link."
+      label: "GitHub Username"
+      description: "Use @username format."
       placeholder: "E.g., @janedoe"
-    validations:
-      required: true
-
-  - type: input
-    id: zotero_username
-    attributes:
-      label: "📚 Zotero Username"
-      description: "Enter your Zotero username here."
-      placeholder: "E.g., janedoe"
     validations:
       required: true
 
   - type: input
     id: discord_username
     attributes:
-      label: "💬 Discord Username"
-      description: "Enter your Discord username here."
+      label: "Discord Username"
+      description: "Primary Discord handle used for CHI communication."
       placeholder: "E.g., janedoe"
     validations:
       required: true
 
   - type: input
-    id: project_repo
+    id: student_major
     attributes:
-      label: "📂 Project Repository"
-      description: "Provide the GitHub repository link for your project."
-      placeholder: "E.g., https://github.com/YOUR_ORG/YOUR_PROJECT"
+      label: "Academic Major / Program"
+      description: "Primary major or program affiliation."
+      placeholder: "E.g., Computer Systems Technology"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: primary_workstream
+    attributes:
+      label: "Primary Workstream"
+      description: "Select the main track for this semester."
+      options:
+        - Responsive Systems / Control
+        - Media Documentation / Post-Production
+        - Narrative / Worldbuilding / BSP
+        - Audio / AVMI
+        - Digital Twin / Spatial Modeling
+        - AI / Semantic Mediation
+        - Hardware / Sensor Integration
+        - Fabrication / Materials / Triptych
+        - Other
     validations:
       required: true
 
   - type: input
-    id: project_board
+    id: primary_repository
     attributes:
-      label: "📌 GitHub Project Board"
-      description: "Provide the link to your GitHub Project Board for tracking tasks."
-      placeholder: "E.g., https://github.com/orgs/YOUR_ORG/projects/XX"
+      label: "Primary Repository Link"
+      description: "Main repo this student will contribute to first."
+      placeholder: "E.g., https://github.com/CHI-CityTech/CHI-StudentResearch"
     validations:
       required: true
 
   - type: textarea
-    id: research_focus
+    id: role_statement
     attributes:
-      label: "🔍 Research Focus"
-      description: "Describe the key research area you are working on."
-      placeholder: "E.g., Blended Reality Performance Systems and AI collaboration"
+      label: "Role and Research Focus"
+      description: "Briefly define your role and focus for Summer 2026."
+      placeholder: "2-5 sentences describing role, focus, and expected contribution."
     validations:
       required: true
 
   - type: textarea
-    id: weekly_checkins
+    id: first_week_tasks
     attributes:
-      label: "📆 Weekly Check-ins"
-      description: "This section will be automatically updated as new Weekly Check-ins are submitted."
-      value: "No check-ins yet."
+      label: "First-Week Tasks"
+      description: "List your concrete Week 1 tasks. Include onboarding + inventory participation if applicable."
+      placeholder: |
+        - Complete onboarding checklist
+        - Contribute to master inventory capture
+        - Submit first subsystem/task note
+    validations:
+      required: true
 
   - type: textarea
-    id: notes
+    id: dependencies
     attributes:
-      label: "📝 Additional Notes"
-      description: "Any extra details, challenges, or feedback regarding this research."
+      label: "Dependencies and Access Needs"
+      description: "List blockers, dependencies, equipment/software access, or approvals needed."
+      placeholder: "E.g., Need projector access after 2 PM; waiting on repo collaborator invite."
+
+  - type: checkboxes
+    id: onboarding_checklist
+    attributes:
+      label: "Onboarding Checklist"
+      options:
+        - label: "GitHub account verified and repository access confirmed"
+        - label: "Discord access confirmed"
+        - label: "Source proposal/SoW status confirmed"
+        - label: "Initial role and first-week task scope confirmed"
  
   - type: checkboxes
     id: final_check
     attributes:
-      label: "✅ Final Confirmation"
+      label: "Final Confirmation"
       options:
-        - label: "I confirm this card will be used for my research tracking."
+        - label: "I confirm this master card is accurate and will be maintained as my primary student profile card."
           required: true
