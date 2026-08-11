@@ -16,19 +16,21 @@ Current cohort from startup documents and launch planning.
 
 ### Fellows With Folder In This Directory
 
-- [Gabriel Aguilar](Aguielar-Gabriel)
-- [Manny Aponte](Aponte-Manny)
-- [Samuel Cheung](Cheung-Samuel)
-- [Evengelina Chauhan](Chauhan-Evengelina)
-- [Sunima Dangol](Dangol-Sunima)
-- [Kazi Islam](Islam-Kazi)
-- [Isaiah Martinez](Martinez-Isaiah)
-- [Noel Nova](Nova-Noel)
-- [Kazi Tasin](Tasin-Kazi)
-- [Paul Mizetskiy](Paul-Mizetskiy)
-- [Eric White](White-Eric)
-- [Tshari Yancey](Yancey-Tshari)
-- [Presley Falkenburg](Falkenburg-Presley)
+| Fellow | Project Area |
+| --- | --- |
+| [Gabriel Aguilar](Aguielar-Gabriel) | Responsive theatre systems / QLab–TouchDesigner / room-state mediation |
+| [Manny Aponte](Aponte-Manny) | Video documentation and archival editing |
+| [Evengelina Chauhan](Chauhan-Evengelina) | Post-production workflow / media enhancement / video deployment |
+| [Samuel Cheung](Cheung-Samuel) | BSP Year 3 / textiles / alpha masking / puppet design and fabrication / AI video generation |
+| [Sunima Dangol](Dangol-Sunima) | Computational mediation and semantic systems |
+| [Presley Falkenburg](Falkenburg-Presley) | Image acquisition |
+| [Kazi Islam](Islam-Kazi) | AI integration and LLM development |
+| [Isaiah Martinez](Martinez-Isaiah) | Unity digital twin / LG-038 spatial model |
+| [Paul Mizetskiy](Paul-Mizetskiy) | Interactive game/puzzle-based learning systems |
+| [Noel Nova](Nova-Noel) | Interactive narrative / Shadow world development |
+| [Kazi Tasin](Tasin-Kazi) | Hardware/software integration / sensor deployment |
+| [Eric White](White-Eric) | Atmos audio installation and calibration |
+| [Tshari Yancey](Yancey-Tshari) | Playwriting / Dalang practice / BSP performance / triptych development and fabrication |
 
 ### Intake Status Note
 
