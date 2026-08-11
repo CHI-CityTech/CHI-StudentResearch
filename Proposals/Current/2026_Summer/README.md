@@ -28,6 +28,7 @@ Current cohort from startup documents and launch planning.
 - [Paul Mizetskiy](Paul-Mizetskiy)
 - [Eric White](White-Eric)
 - [Tshari Yancey](Yancey-Tshari)
+- [Presley Falkenburg](Falkenburg-Presley)
 
 ### Intake Status Note
 
